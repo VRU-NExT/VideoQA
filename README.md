@@ -23,16 +23,16 @@ Contributed by [Yaoyao Zhong](https://zhongyy.github.io) and [Wei Ji]().
 Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com/)!
 
 ## Resources
-### Survey papers
-
-1. **Video Question Answering: Datasets, Algorithms and Challenges** `arxiv 2022` [[paper]]()
-2. **Video question answering: a survey of models and datasets** `Mobile Networks and Applications 2021` [[paper]](https://link.springer.com/article/10.1007/s11036-020-01730-0)
-3. **Video Question-Answering Techniques, Benchmark Datasets and Evaluation Metrics Leveraging Video Captioning: A Comprehensive Survey**  `IEEE Acess 2021` [[pdf]](https://ieeexplore.ieee.org/abstract/document/9350580) 
-4. **Recent Advances in Video Question Answering: A Review of Datasets and Methods**  `ICPR Workshops 2021` [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-68790-8_27) 
 
 ### Open-sourced code
 ### Datasets
 ### Leaderboards
 ### Paper Lists 
 
+#### Survey
+
+1. **Video Question Answering: Datasets, Algorithms and Challenges** `arxiv 2022` [[paper]]()
+2. **Video question answering: a survey of models and datasets** `Mobile Networks and Applications 2021` [[paper]](https://link.springer.com/article/10.1007/s11036-020-01730-0)
+3. **Video Question-Answering Techniques, Benchmark Datasets and Evaluation Metrics Leveraging Video Captioning: A Comprehensive Survey**  `IEEE Acess 2021` [[pdf]](https://ieeexplore.ieee.org/abstract/document/9350580) 
+4. **Recent Advances in Video Question Answering: A Review of Datasets and Methods**  `ICPR Workshops 2021` [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-68790-8_27) 
 
