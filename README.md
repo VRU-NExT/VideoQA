@@ -107,6 +107,15 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td> Auto</td>
 	</tr>	
 	<tr>
+	<td><code>YouTube2Text-QA</code></td>
+		<td><a href="https://arxiv.org/pdf/1707.06355.pdf">[Paper]</a>,
+            <a href="">[Dataset]</a></td>
+		<td> VideoQA, Factoid </td>
+		<td> MSVD </td>
+		<td> 1.9K/48K/-</td>
+		<td> Auto</td>
+	</tr>	
+	<tr>
 	<td><code></code></td>
 		<td><a href="">[Paper]</a>,
             <a href="">[Dataset]</a></td>
