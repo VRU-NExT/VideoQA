@@ -352,13 +352,21 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td> 9.5K/71K/29</td>
 		<td> Auto </td>
 	</tr>	
-	<td><code></code></td>
-		<td><a href="">[Paper]</a>,
-            <a href="">[Dataset]</a></td>
-		<td> </td>
-		<td> </td>
-		<td> </td>
-		<td> </td>
+	<td><code>MedVidQA</code></td>
+		<td><a href="https://arxiv.org/pdf/2201.12888.pdf">[Paper]</a>,
+            <a href="https://github.com/deepaknlp/MedVidQACL">[Dataset]</a></td>
+		<td> VideoQA, Factoid</td>
+		<td> Medical Instructional Videos</td>
+		<td> 899/3K/-</td>
+		<td> Man</td>
+	</tr>	
+	<td><code>NEWSKVQA</code></td>
+		<td><a href="https://arxiv.org/abs/2202.04015">[Paper]</a>,
+            <a href="https://drive.google.com/file/d/1kK7fjwCZi0SLGGMHAENE8_Eofk_mVC15/view">[Dataset]</a></td>
+		<td> KB VideoQA, </td>
+		<td> News Videos</td>
+		<td> 12K/1M/30</td>
+		<td> Auto</td>
 	</tr>	
 </tbody >
 </table>
