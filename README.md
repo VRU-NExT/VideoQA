@@ -193,18 +193,19 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td><a href="https://arxiv.org/abs/1904.11574">[Paper]</a>,
             <a href="http://tvqa.cs.unc.edu/download_tvqa_plus.html">[Dataset]</a>,
             <a href="https://github.com/jayleicn/TVQAplus">[Code]</a></td>
-		<td>MM VidQA, Factoid</td>
+		<td>MM VideoQA, Factoid</td>
 		<td>TV</td>
 		<td> 4.1K/29K/61</td>
 		<td> Man</td>
 	</tr>	
-	<td><code></code></td>
-		<td><a href="">[Paper]</a>,
-            <a href="">[Dataset]</a></td>
-		<td></td>
-		<td> </td>
-		<td> </td>
-		<td> </td>
+	<td><code>KnowIT VQA</code></td>
+		<td><a href="https://arxiv.org/abs/1910.10706">[Paper]</a>,
+            <a href="https://knowit-vqa.github.io/">[Dataset]</a>,
+            <a href="https://github.com/noagarcia/knowit-rock">[Code]</a></td>
+		<td>KB VideoQA, Factoid</td>
+		<td> TV </td>
+		<td> 12K/24K/20</td>
+		<td> Man</td>
 	</tr>	
 	<td><code></code></td>
 		<td><a href="">[Paper]</a>,
