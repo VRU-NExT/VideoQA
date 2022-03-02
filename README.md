@@ -321,12 +321,36 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td> Man </td>
 	</tr>	
 	<td><code>TGIF-QA-R</code></td>
-		<td><a href="">[Paper]</a>,
-            <a href="">[Dataset]</a></td>
-		<td> </td>
-		<td> </td>
-		<td> </td>
-		<td> </td>
+		<td><a href="https://dl.acm.org/doi/abs/10.1145/3474085.3475193">[Paper]</a>,
+            <a href="https://github.com/PengLiang-cn/PGAT">[Dataset]</a></td>
+		<td> VideoQA, Factoid </td>
+		<td> GIF </td>
+		<td> 71K/165K/3  </td>
+		<td> Auto </td>
+	</tr>	
+	<td><code>KnowIT-X VQA</code></td>
+		<td><a href="https://arxiv.org/abs/2110.13395">[Paper]</a>,
+            <a href="https://knowit-vqa.github.io/">[Dataset]</a></td>
+		<td>KB VideoQA, Factoid</td>
+		<td> TV </td>
+		<td> 12.1K/21.4K/20</td>
+		<td> Man </td>
+	</tr>	
+	<td><code>ASRL-QA</code></td>
+		<td><a href="https://arxiv.org/abs/2104.03762">[Paper]</a>,
+            <a href="https://github.com/TheShadow29/Video-QAP">[Dataset]</a></td>
+		<td> VideoQA, Factoid</td>
+		<td> Web Videos </td>
+		<td> 35K/162K/36.2</td>
+		<td> Auto </td>
+	</tr>	
+	<td><code>Charades-SRL-QA</code></td>
+		<td><a href="https://arxiv.org/abs/2104.03762">[Paper]</a>,
+            <a href="https://github.com/TheShadow29/Video-QAP">[Dataset]</a></td>
+		<td> VideoQA, Factoid</td>
+		<td> Homemade videos </td>
+		<td> 9.5K/71K/29</td>
+		<td> Auto </td>
 	</tr>	
 	<td><code></code></td>
 		<td><a href="">[Paper]</a>,
