@@ -51,13 +51,13 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td> Auto</td>
 	</tr>
 	<tr>
-	<td><code></code></td>
-		<td><a href="">[Paper]</a>,
-            <a href="">[Dataset]</a></td>
-		<td></td>
-		<td> </td>
-		<td> </td>
-		<td> </td>
+	<td><code>VideoQA</code></td>
+		<td><a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewFile/14906/14319">[Paper]</a>,
+            <a href="http://aliensunmin.github.io/project/video-language/">[Dataset]</a></td>
+		<td> VideoQA, Factoid</td>
+		<td> Web videos</td>
+		<td> 18K/174K/90</td>
+		<td> Auto, Man</td>
 	</tr>	
 	<tr>
 	<td><code>MovieQA</code></td>
