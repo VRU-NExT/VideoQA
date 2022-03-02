@@ -215,6 +215,31 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td> 408/6.1K/-</td>
 		<td> Man</td>
 	</tr>	
+	<td><code>LifeQA</code></td>
+		<td><a href="https://aclanthology.org/2020.lrec-1.536.pdf">[Paper]</a>,
+            <a href="https://lit.eecs.umich.edu/lifeqa/">[Dataset]</a>,
+            <a href="https://github.com/mmazab/LifeQA">[Code]</a></td>
+		<td>MM VideoQA, Factoid</td>
+		<td>Web Videos </td>
+		<td> 275/2.3K/74 </td>
+		<td> Man</td>
+	</tr>	
+	<td><code></code></td>
+		<td><a href="">[Paper]</a>,
+            <a href="">[Dataset]</a></td>
+		<td></td>
+		<td> </td>
+		<td> </td>
+		<td> </td>
+	</tr>	
+	<td><code></code></td>
+		<td><a href="">[Paper]</a>,
+            <a href="">[Dataset]</a></td>
+		<td></td>
+		<td> </td>
+		<td> </td>
+		<td> </td>
+	</tr>	
 	<td><code></code></td>
 		<td><a href="">[Paper]</a>,
             <a href="">[Dataset]</a></td>
