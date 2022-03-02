@@ -135,6 +135,26 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td> Man</td>
 	</tr>	
 	<tr>
+	<td><code>TVQA</code></td>
+		<td><a href="https://aclanthology.org/D18-1167.pdf">[Paper]</a>,
+           	<a href="http://tvqa.cs.unc.edu/">[Dataset]</a>,
+		<a href="https://github.com/jayleicn/TVQAplus">[Code]</a></td>
+		<td>MM VideoQA, Factoid</td>
+		<td>TV</td>
+		<td>21K/152K/76</td>
+		<td>Man</td>
+	</tr>	
+	<tr>
+	<td><code>SVQA</code></td>
+		<td><a href="https://dl.acm.org/doi/abs/10.1145/3240508.3240563">[Paper]</a>,
+            	<a href="https://svqa-founder.github.io/SVQA/">[Dataset]</a>,
+		<a href="https://github.com/SVQA-founder/SVQA/tree/master/code">[Code]</a></td>
+		<td> VideoQA, Factoid </td>
+		<td> Unity3D </td>
+		<td> 12K/118K/- </td>
+		<td> Auto </td>
+	</tr>	
+	<tr>
 	<td><code></code></td>
 		<td><a href="">[Paper]</a>,
             <a href="">[Dataset]</a></td>
