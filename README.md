@@ -35,7 +35,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
     <th>Links</th>
     <th>Types</th>
     <th>Source</th>
-    <th>#Video/#QA/Video Length(s)</th>
+    <th>#Video/#Qustion/Video Length(s)</th>
     <th>Annotation</th>
   </tr>
 </thead>
@@ -159,11 +159,19 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td><a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Zadeh_Social-IQ_A_Question_Answering_Benchmark_for_Artificial_Social_Intelligence_CVPR_2019_paper.pdf">[Paper]</a>,
             <a href="https://github.com/A2Zadeh/Social-IQ">[Dataset]</a></td>
 		<td> MM VideoQA, Inference</td>
-		<td> web Videos</td>
-		<td> 1.2K/7.5K/505</td>
+		<td> Web Videos</td>
+		<td> 1.2K/7.5K/-</td>
 		<td> Man</td>
 	</tr>	
 	<tr>
+	<td><code>ActivityNet-QA</code></td>
+		<td><a href="https://ojs.aaai.org/index.php/AAAI/article/download/4946/4819">[Paper]</a>,
+            <a href="https://github.com/MILVLG/activitynet-qa">[Dataset]</a></td>
+		<td> VideoQA, Factoid</td>
+		<td> Web Videos</td>
+		<td> 5.8K/58K/180</td>
+		<td> Man</td>
+	</tr>	
 	<td><code></code></td>
 		<td><a href="">[Paper]</a>,
             <a href="">[Dataset]</a></td>
