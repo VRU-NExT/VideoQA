@@ -41,7 +41,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 </thead>
 
 <tbody>
-<tr>
+	<tr>
 	<td><code>VideoQA(FIB)</code></td>
 		<td><a href="https://arxiv.org/pdf/1511.04670.pdf">[Paper]</a>,
             <a href="https://github.com/ffmpbgrnn/VideoQA">[Dataset]</a></td>
@@ -49,8 +49,28 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td> Multiple source </td>
 		<td> 109K/390K  </td>
 		<td> Auto</td>
-</tr>
+	</tr>
 
+	<tr>
+	<td><code>MovieQA</code></td>
+		<td><a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/Tapaswi_MovieQA_Understanding_Stories_CVPR_2016_paper.pdf">[Paper]</a>,
+            <a href="http://movieqa.cs.toronto.edu/home/">[Dataset]</a></td>
+		<td> MM VideoQA, Factoid </td>
+		<td> Movie </td>
+		<td> 6.7K/6.4K  </td>
+		<td> Man</td>
+	</tr>
+	
+	<tr>
+	<td><code>TGIF-QA</code></td>
+		<td><a href="https://openaccess.thecvf.com/content_cvpr_2017/papers/Jang_TGIF-QA_Toward_Spatio-Temporal_CVPR_2017_paper.pdf">[Paper]</a>,
+            <a href="https://github.com/YunseokJANG/tgif-qa">[Dataset]</a></td>
+		<td> VideoQA, Factoid </td>
+		<td> GIF </td>
+		<td> 71K/165K  </td>
+		<td> Auto, Man</td>
+	</tr>
+	
 </tbody >
 </table>
 </div>
