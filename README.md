@@ -232,13 +232,14 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td> 76/17K/262</td>
 		<td> Man </td>
 	</tr>	
-	<td><code></code></td>
-		<td><a href="">[Paper]</a>,
-            <a href="">[Dataset]</a></td>
-		<td></td>
-		<td> </td>
-		<td> </td>
-		<td> </td>
+	<td><code>How2QA</code></td>
+		<td><a href="https://arxiv.org/abs/2005.00200">[Paper]</a>,
+            <a href="https://github.com/ych133/How2R-and-How2QA">[Dataset]</a>,
+            <a href="https://github.com/linjieli222/HERO">[Code]</a></td>
+		<td> MM VideoQA, Factoid</td>
+		<td> Web videos</td>
+		<td> 22K/44K/60</td>
+		<td> Man</td>
 	</tr>	
 	<td><code></code></td>
 		<td><a href="">[Paper]</a>,
