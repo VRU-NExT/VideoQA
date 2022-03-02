@@ -207,6 +207,22 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td> 12K/24K/20</td>
 		<td> Man</td>
 	</tr>	
+	<td><code>TutorialVQA</code></td>
+		<td><a href="https://arxiv.org/abs/1912.01046">[Paper]</a>,
+            <a href="https://github.com/acolas1/TutorialVQAData">[Dataset]</a></td>
+		<td> VideoQA, Inference</td>
+		<td> Tutorial videos</td>
+		<td> 408/6.1K/-</td>
+		<td> Man</td>
+	</tr>	
+	<td><code></code></td>
+		<td><a href="">[Paper]</a>,
+            <a href="">[Dataset]</a></td>
+		<td></td>
+		<td> </td>
+		<td> </td>
+		<td> </td>
+	</tr>	
 	<td><code></code></td>
 		<td><a href="">[Paper]</a>,
             <a href="">[Dataset]</a></td>
