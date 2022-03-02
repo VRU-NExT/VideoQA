@@ -172,6 +172,14 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td> 5.8K/58K/180</td>
 		<td> Man</td>
 	</tr>	
+	<td><code>EgoVQA</code></td>
+		<td><a href="https://openaccess.thecvf.com/content_ICCVW_2019/papers/EPIC/Fan_EgoVQA_-_An_Egocentric_Video_Question_Answering_Benchmark_Dataset_ICCVW_2019_paper.pdf">[Paper]</a>,
+            <a href="https://github.com/fanchenyou/EgoVQA/">[Dataset]</a></td>
+		<td>VideoQA, Factoid</td>
+		<td> Egocentric videos</td>
+		<td> 520/580/20-100 </td>
+		<td> Man</td>
+	</tr>	
 	<td><code></code></td>
 		<td><a href="">[Paper]</a>,
             <a href="">[Dataset]</a></td>
