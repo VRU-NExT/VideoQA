@@ -50,7 +50,6 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td> 109K/390K  </td>
 		<td> Auto</td>
 	</tr>
-
 	<tr>
 	<td><code>MovieQA</code></td>
 		<td><a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/Tapaswi_MovieQA_Understanding_Stories_CVPR_2016_paper.pdf">[Paper]</a>,
@@ -60,7 +59,6 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td> 6.7K/6.4K  </td>
 		<td> Man</td>
 	</tr>
-	
 	<tr>
 	<td><code>TGIF-QA</code></td>
 		<td><a href="https://openaccess.thecvf.com/content_cvpr_2017/papers/Jang_TGIF-QA_Toward_Spatio-Temporal_CVPR_2017_paper.pdf">[Paper]</a>,
