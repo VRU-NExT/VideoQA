@@ -224,13 +224,13 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td> 275/2.3K/74 </td>
 		<td> Man</td>
 	</tr>	
-	<td><code></code></td>
-		<td><a href="">[Paper]</a>,
-            <a href="">[Dataset]</a></td>
-		<td></td>
-		<td> </td>
-		<td> </td>
-		<td> </td>
+	<td><code>PsTuts-VQA</code></td>
+		<td><a href="https://arxiv.org/abs/2008.00544">[Paper]</a>,
+            <a href="https://sites.google.com/view/pstuts-vqa/home">[Dataset]</a></td>
+		<td> KB VideoQA, Factoid</td>
+		<td> Tutorial videos</td>
+		<td> 76/17K/262</td>
+		<td> Man </td>
 	</tr>	
 	<td><code></code></td>
 		<td><a href="">[Paper]</a>,
