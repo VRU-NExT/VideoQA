@@ -108,12 +108,31 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 	</tr>	
 	<tr>
 	<td><code>YouTube2Text-QA</code></td>
-		<td><a href="https://arxiv.org/pdf/1707.06355.pdf">[Paper]</a>,
-            <a href="">[Dataset]</a></td>
+		<td><a href="https://arxiv.org/pdf/1707.06355.pdf">[Paper]</a></td>
 		<td> VideoQA, Factoid </td>
 		<td> MSVD </td>
 		<td> 1.9K/48K/-</td>
 		<td> Auto</td>
+	</tr>	
+	<tr>
+	<td><code>MarioQA</code></td>
+		<td><a href="https://openaccess.thecvf.com/content_ICCV_2017/papers/Mun_MarioQA_Answering_Questions_ICCV_2017_paper.pdf">[Paper]</a>,
+            	<a href="https://cvlab.postech.ac.kr/research/MarioQA/">[Dataset]</a>,
+		<a href="https://github.com/JonghwanMun/MarioQA">[Code]</a></td>
+		<td>MM VideoQA, Factoid</td>
+		<td> Gameplay</td>
+		<td>92K/92K/3-6 </td>
+		<td> Auto</td>
+	</tr>	
+	<tr>
+	<td><code>PororoQA</code></td>
+		<td><a href="https://www.ijcai.org/Proceedings/2017/0280.pdf">[Paper]</a>,
+            <a href="https://github.com/Kyung-Min/PororoQA">[Dataset]</a>,
+		<a href="https://github.com/Kyung-Min/Deep-Embedded-Memory-Networks">[Code]</a></td>
+		<td> MM VideoQA, Factoid</td>
+		<td> Cartoon </td>
+		<td> 171/8.9K/8.3</td>
+		<td> Man</td>
 	</tr>	
 	<tr>
 	<td><code></code></td>
