@@ -35,7 +35,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
     <th>Links</th>
     <th>Types</th>
     <th>Source</th>
-    <th>Size (#Video/#QA)</th>
+    <th>#Video/#QA/Video Length(s)</th>
     <th>Annotation</th>
   </tr>
 </thead>
@@ -47,17 +47,26 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
             <a href="https://github.com/ffmpbgrnn/VideoQA">[Dataset]</a></td>
 		<td> VideoQA, Factoid </td>
 		<td> Multiple source </td>
-		<td> 109K/390K  </td>
+		<td> 109K/390K/-  </td>
 		<td> Auto</td>
 	</tr>
 	<tr>
+	<td><code></code></td>
+		<td><a href="">[Paper]</a>,
+            <a href="">[Dataset]</a></td>
+		<td></td>
+		<td> </td>
+		<td> </td>
+		<td> </td>
+	</tr>	
+	<tr>
 	<td><code>MovieQA</code></td>
 		<td><a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/Tapaswi_MovieQA_Understanding_Stories_CVPR_2016_paper.pdf">[Paper]</a>,
-            <a href="http://movieqa.cs.toronto.edu/home/">[Dataset]</a></td>,
+            	<a href="http://movieqa.cs.toronto.edu/home/">[Dataset]</a>,
 		<a href="https://github.com/makarandtapaswi/MovieQA_CVPR2016/">[Code]</a></td>
 		<td> MM VideoQA, Factoid </td>
 		<td> Movie </td>
-		<td> 6.7K/6.4K  </td>
+		<td> 6.7K/6.4K/202  </td>
 		<td> Man</td>
 	</tr>
 	<tr>
@@ -66,7 +75,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
             <a href="https://github.com/YunseokJANG/tgif-qa">[Dataset]</a></td>
 		<td> VideoQA, Factoid </td>
 		<td> GIF </td>
-		<td> 71K/165K  </td>
+		<td> 71K/165K/3  </td>
 		<td> Auto, Man</td>
 	</tr>
 	<tr>
@@ -76,7 +85,25 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<a href="https://github.com/teganmaharaj/movieFIB">[Code]</a></td>
 		<td> MM VideoQA, Factoid </td>
 		<td> Movie </td>
-		<td> 118K/348K</td>
+		<td> 118K/348K/4.1</td>
+		<td> Auto</td>
+	</tr>	
+	<tr>
+	<td><code>MSVD-QA</code></td>
+		<td><a href="http://staff.ustc.edu.cn/~hexn/papers/mm17-videoQA.pdf">[Paper]</a>,
+            <a href="https://github.com/xudejing/video-question-answering">[Dataset]</a></td>
+		<td> VideoQA, Factoid </td>
+		<td> MSVD </td>
+		<td> 1.9K/50K/10</td>
+		<td> Auto</td>
+	</tr>	
+	<tr>
+	<td><code>MSRVTT-QA</code></td>
+		<td><a href="http://staff.ustc.edu.cn/~hexn/papers/mm17-videoQA.pdf">[Paper]</a>,
+            <a href="https://github.com/xudejing/video-question-answering">[Dataset]</a></td>
+		<td> VideoQA, Factoid</td>
+		<td> MSR-VTT</td>
+		<td> 10K/243K/15</td>
 		<td> Auto</td>
 	</tr>	
 	<tr>
