@@ -295,10 +295,43 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td> 10K/62K/- </td>
 		<td> Man </td>
 	</tr>	
+	<td><code>Env-QA</code></td>
+		<td><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Gao_Env-QA_A_Video_Question_Answering_Benchmark_for_Comprehensive_Understanding_of_ICCV_2021_paper.pdf">[Paper]</a>,
+            <a href="https://envqa.github.io/">[Dataset]</a></td>
+		<td> MM VideoQA, Factoid </td>
+		<td> Egocentric Videos </td>
+		<td> 23K/85K/20</td>
+		<td> Auto, Man</td>
+	</tr>	
+	<td><code>Pano-AVQA</code></td>
+		<td><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Yun_Pano-AVQA_Grounded_Audio-Visual_Question_Answering_on_360deg_Videos_ICCV_2021_paper.pdf">[Paper]</a>,
+            <a href="https://github.com/hs-yn/PanoAVQA">[Dataset]</a></td>
+		<td> MM VideoQA, Factoid</td>
+		<td> 360° Videos </td>
+		<td> 5.4K/51.7K/-</td>
+		<td> Man</td>
+	</tr>	
+	<td><code>DramaQA</code></td>
+		<td><a href="https://arxiv.org/abs/2005.03356">[Paper]</a>,
+            <a href="https://dramaqa.snu.ac.kr/">[Dataset]</a>,
+            <a href="https://github.com/liveseongho/DramaQAChallenge2020">[Dataset]</a></td>
+		<td> MM VideoQA, Inference </td>
+		<td> TV</td>
+		<td> 23K/17K/- </td>
+		<td> Man </td>
+	</tr>	
+	<td><code>TGIF-QA-R</code></td>
+		<td><a href="">[Paper]</a>,
+            <a href="">[Dataset]</a></td>
+		<td> </td>
+		<td> </td>
+		<td> </td>
+		<td> </td>
+	</tr>	
 	<td><code></code></td>
 		<td><a href="">[Paper]</a>,
             <a href="">[Dataset]</a></td>
-		<td></td>
+		<td> </td>
 		<td> </td>
 		<td> </td>
 		<td> </td>
