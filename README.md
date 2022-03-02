@@ -93,7 +93,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td><a href="http://staff.ustc.edu.cn/~hexn/papers/mm17-videoQA.pdf">[Paper]</a>,
             <a href="https://github.com/xudejing/video-question-answering">[Dataset]</a></td>
 		<td> VideoQA, Factoid </td>
-		<td> MSVD </td>
+		<td> Web videos </td>
 		<td> 1.9K/50K/10</td>
 		<td> Auto</td>
 	</tr>	
@@ -102,7 +102,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td><a href="http://staff.ustc.edu.cn/~hexn/papers/mm17-videoQA.pdf">[Paper]</a>,
             <a href="https://github.com/xudejing/video-question-answering">[Dataset]</a></td>
 		<td> VideoQA, Factoid</td>
-		<td> MSR-VTT</td>
+		<td> Web videos</td>
 		<td> 10K/243K/15</td>
 		<td> Auto</td>
 	</tr>	
@@ -150,7 +150,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
             	<a href="https://svqa-founder.github.io/SVQA/">[Dataset]</a>,
 		<a href="https://github.com/SVQA-founder/SVQA/tree/master/code">[Code]</a></td>
 		<td> VideoQA, Factoid </td>
-		<td> Unity3D </td>
+		<td> Synthetic Videos </td>
 		<td> 12K/118K/- </td>
 		<td> Auto </td>
 	</tr>	
@@ -176,7 +176,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td><a href="https://openaccess.thecvf.com/content_ICCVW_2019/papers/EPIC/Fan_EgoVQA_-_An_Egocentric_Video_Question_Answering_Benchmark_Dataset_ICCVW_2019_paper.pdf">[Paper]</a>,
             <a href="https://github.com/fanchenyou/EgoVQA/">[Dataset]</a></td>
 		<td>VideoQA, Factoid</td>
-		<td> Egocentric videos</td>
+		<td> Egocentric Videos</td>
 		<td> 520/580/20-100 </td>
 		<td> Man</td>
 	</tr>	
@@ -185,7 +185,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
             <a href="http://clevrer.csail.mit.edu/">[Dataset]</a>,
             <a href="https://github.com/chuangg/CLEVRER">[Code]</a></td>
 		<td> VideoQA, Inference </td>
-		<td> Synthetic videos </td>
+		<td> Synthetic Videos </td>
 		<td> 10K/305K/5 </td>
 		<td> Auto </td>
 	</tr>	
@@ -228,7 +228,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td><a href="https://arxiv.org/abs/2008.00544">[Paper]</a>,
             <a href="https://sites.google.com/view/pstuts-vqa/home">[Dataset]</a></td>
 		<td> KB VideoQA, Factoid</td>
-		<td> Tutorial videos</td>
+		<td> Tutorial Videos</td>
 		<td> 76/17K/262</td>
 		<td> Man </td>
 	</tr>	
@@ -237,17 +237,36 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
             <a href="https://github.com/ych133/How2R-and-How2QA">[Dataset]</a>,
             <a href="https://github.com/linjieli222/HERO">[Code]</a></td>
 		<td> MM VideoQA, Factoid</td>
-		<td> Web videos</td>
+		<td> Web Videos</td>
 		<td> 22K/44K/60</td>
 		<td> Man</td>
 	</tr>	
-	<td><code></code></td>
-		<td><a href="">[Paper]</a>,
-            <a href="">[Dataset]</a></td>
-		<td></td>
-		<td> </td>
-		<td> </td>
-		<td> </td>
+	<td><code>V2C-QA</code></td>
+		<td><a href="https://arxiv.org/abs/2003.05162">[Paper]</a>,
+            <a href="https://github.com/jacobswan1/Video2Commonsense">[Dataset]</a>,
+            <a href="https://github.com/jacobswan1/Video2Commonsense">[Code]</a></td>
+		<td> CS VideoQA, Inference</td>
+		<td> Web Videos</td>
+		<td> 1.5K/37K/-</td>
+		<td> Auto</td>
+	</tr>	
+	<td><code>NExT-QA</code></td>
+		<td><a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Xiao_NExT-QA_Next_Phase_of_Question-Answering_to_Explaining_Temporal_Actions_CVPR_2021_paper.pdf">[Paper]</a>,
+            <a href="https://doc-doc.github.io/docs/nextqa.html">[Dataset]</a>,
+            <a href="https://github.com/doc-doc/NExT-QA">[Code]</a></td>
+		<td> VideoQA, Inference</td>
+		<td> Web Videos</td>
+		<td> 5.4K/52K/44</td>
+		<td> Man</td>
+	</tr>
+	<td><code>AGQA</code></td>
+		<td><a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Grunde-McLaughlin_AGQA_A_Benchmark_for_Compositional_Spatio-Temporal_Reasoning_CVPR_2021_paper.pdf">[Paper]</a>,
+            <a href="https://cs.stanford.edu/people/ranjaykrishna/agqa/">[Dataset]</a>,
+            <a href="https://github.com/madeleinegrunde/AGQA_baselines_code">[Code]</a></td>
+		<td> VideoQA, Inference</td>
+		<td> Homemade videos</td>
+		<td> 9.6K/192M/30</td>
+		<td> Auto</td>
 	</tr>	
 	<td><code></code></td>
 		<td><a href="">[Paper]</a>,
