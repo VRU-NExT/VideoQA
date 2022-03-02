@@ -268,6 +268,33 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td> 9.6K/192M/30</td>
 		<td> Auto</td>
 	</tr>	
+	<td><code>HowToVQA69M</code></td>
+		<td><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Just_Ask_Learning_To_Answer_Questions_From_Millions_of_Narrated_ICCV_2021_paper.pdf">[Paper]</a>,
+            <a href="https://antoyang.github.io/just-ask.html">[Dataset]</a>,
+            <a href="https://github.com/antoyang/just-ask">[Code]</a></td>
+		<td> MM VideoQA, Factoid</td>
+		<td> Web Videos</td>
+		<td> 69M/69M/12</td>
+		<td> Auto</td>
+	</tr>	
+	<td><code>iVQA</code></td>
+		<td><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Just_Ask_Learning_To_Answer_Questions_From_Millions_of_Narrated_ICCV_2021_paper.pdf">[Paper]</a>,
+            <a href="https://antoyang.github.io/just-ask.html">[Dataset]</a>,
+            <a href="https://github.com/antoyang/just-ask">[Code]</a></td>
+		<td> MM VideoQA, Factoid</td>
+		<td> Web Videos</td>
+		<td> 10K/10K/18</td>
+		<td> Man</td>
+	</tr>	
+	<td><code>SUTD-TrafficQA</code></td>
+		<td><a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_SUTD-TrafficQA_A_Question_Answering_Benchmark_and_an_Efficient_Network_for_CVPR_2021_paper.pdf">[Paper]</a>,
+            <a href="https://github.com/SUTDCV/SUTD-TrafficQA">[Dataset]</a>,
+            <a href="https://github.com/SUTDCV/SUTD-TrafficQA">[Code]</a></td>
+		<td> VideoQA, Inference </td>
+		<td> Traffic scenes </td>
+		<td> 10K/62K/- </td>
+		<td> Man </td>
+	</tr>	
 	<td><code></code></td>
 		<td><a href="">[Paper]</a>,
             <a href="">[Dataset]</a></td>
