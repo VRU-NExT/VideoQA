@@ -183,11 +183,28 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 	<td><code>CLERVER</code></td>
 		<td><a href="https://arxiv.org/abs/1910.01442">[Paper]</a>,
             <a href="http://clevrer.csail.mit.edu/">[Dataset]</a>,
-            <a href="https://github.com/chuangg/CLEVRER">[Dataset]</a></td>
+            <a href="https://github.com/chuangg/CLEVRER">[Code]</a></td>
 		<td> VideoQA, Inference </td>
 		<td> Synthetic videos </td>
 		<td> 10K/305K/5 </td>
 		<td> Auto </td>
+	</tr>	
+	<td><code>TVQA+</code></td>
+		<td><a href="https://arxiv.org/abs/1904.11574">[Paper]</a>,
+            <a href="http://tvqa.cs.unc.edu/download_tvqa_plus.html">[Dataset]</a>,
+            <a href="https://github.com/jayleicn/TVQAplus">[Code]</a></td>
+		<td>MM VidQA, Factoid</td>
+		<td>TV</td>
+		<td> 4.1K/29K/61</td>
+		<td> Man</td>
+	</tr>	
+	<td><code></code></td>
+		<td><a href="">[Paper]</a>,
+            <a href="">[Dataset]</a></td>
+		<td></td>
+		<td> </td>
+		<td> </td>
+		<td> </td>
 	</tr>	
 	<td><code></code></td>
 		<td><a href="">[Paper]</a>,
