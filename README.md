@@ -180,6 +180,15 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td> 520/580/20-100 </td>
 		<td> Man</td>
 	</tr>	
+	<td><code>CLERVER</code></td>
+		<td><a href="https://arxiv.org/abs/1910.01442">[Paper]</a>,
+            <a href="http://clevrer.csail.mit.edu/">[Dataset]</a>,
+            <a href="https://github.com/chuangg/CLEVRER">[Dataset]</a></td>
+		<td> VideoQA, Inference </td>
+		<td> Synthetic videos </td>
+		<td> 10K/305K/5 </td>
+		<td> Auto </td>
+	</tr>	
 	<td><code></code></td>
 		<td><a href="">[Paper]</a>,
             <a href="">[Dataset]</a></td>
