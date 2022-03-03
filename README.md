@@ -416,13 +416,15 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 3. 
 
 #### Graph Neural Networks
-1. **** `` [[paper]]()[[Code]]().
-2. 
+1. **Location-Aware Graph Convolutional Networks for Video Question Answering** `AAAI 2020` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6737).
+2. **Reasoning with heterogeneous graph alignment for video question answering** `AAAI 2020` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6767)[[Code]](https://github.com/Jumpin2/HGA).
+3. **** `` [[paper]]()[[Code]]().
+4. 
 
 #### Modular Networks
 1. **Question-aware tube-switch network for video question answering** `ACMMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3343031.3350969).
 2. **Open-Ended Long-Form Video Question Answering via Hierarchical Convolutional Self-Attention Networks** `IJCAI 2019` [[paper]](https://arxiv.org/abs/1906.12158).
-3. **** `` [[paper]]()[[Code]]().
+3. **Hierarchical conditional relation networks for video question answering** `CVPR 2020` [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Le_Hierarchical_Conditional_Relation_Networks_for_Video_Question_Answering_CVPR_2020_paper.pdf)[[Code]](https://github.com/thaolmk54/hcrn-videoqa).
 4. 
 
 #### Neural-Symbolic
@@ -440,7 +442,12 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 8. **Frame augmented alternating attention network for video question answering** `TMM 2019` [[paper]](https://ieeexplore.ieee.org/abstract/document/8811730)[[Code]](https://github.com/wannature/video-qa-FAAAN).
 9. **Spatiotemporal-Textual Co-Attention Network for Video Question Answering** `TOMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3320061).
 10. **Video question answering via knowledge-based progressive spatial-temporal attention network** `TOMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3321505).
-11. 
+11. **Gaining extra supervision via multi-task learning for multi-modal video question answering** `IJCNN 2019` [[paper]](https://ieeexplore.ieee.org/abstract/document/8852087).
+12. **Modality shifting attention network for multi-modal video question answering** `CVPR 2020` [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_Modality_Shifting_Attention_Network_for_Multi-Modal_Video_Question_Answering_CVPR_2020_paper.pdf).
+13. **KnowIT VQA: Answering Knowledge-Based Questions about Videos** `AAAI 2020` [[paper]](https://github.com/noagarcia/knowit-rock)[[Code]](https://github.com/noagarcia/knowit-rock).
+14. **Divide and conquer: Question-guided spatio-temporal contextual attention for video question answering** `AAAI 2020` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6766).
+15. **** `` [[paper]]()[[Code]]().
+16.   
 
 
 
