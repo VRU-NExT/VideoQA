@@ -380,7 +380,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 3. **Video Question-Answering Techniques, Benchmark Datasets and Evaluation Metrics Leveraging Video Captioning: A Comprehensive Survey**  `IEEE Acess 2021` [[Paper]](https://ieeexplore.ieee.org/abstract/document/9350580). 
 4. **Recent Advances in Video Question Answering: A Review of Datasets and Methods**  `ICPR Workshops 2021` [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-68790-8_27). 
 
-#### Early Works (Varients of RNNs with Attention)
+#### Early Works (Varients of RNNs)
 1. **Uncovering the temporal context for video question answering** `arXiv 2015, IJCV 2017` [[paper]](https://arxiv.org/pdf/1511.04670.pdf)[[Code]](https://github.com/ffmpbgrnn/VideoQA).
 2. **Tgif-qa: Toward spatio-temporal reasoning in visual question answering** `CVPR 2017` [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Jang_TGIF-QA_Toward_Spatio-Temporal_CVPR_2017_paper.pdf)[[Code]](https://github.com/YunseokJANG/tgif-qa).
 3. **End-to-end concept word detection for video captioning, retrieval, and question answering** `CVPR 2017` [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_End-To-End_Concept_Word_CVPR_2017_paper.pdf)[[3rd Party Code]](https://github.com/YuliaNovskaya/cv31).
@@ -406,8 +406,9 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 6. **The forgettable-watcher model for video question answering** `Neurocomputing 2018` [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231218308075).
 7. **Heterogeneous memory enhanced multimodal attention model for video question answering** `CVPR 2019` [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_Heterogeneous_Memory_Enhanced_Multimodal_Attention_Model_for_Video_Question_Answering_CVPR_2019_paper.pdf)[[Code]](https://github.com/fanchenyou/HME-VideoQA).
 8. **Progressive attention memory network for movie story question answering** `CVPR 2019` [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Progressive_Attention_Memory_Network_for_Movie_Story_Question_Answering_CVPR_2019_paper.pdf).
-9. **** `` [[paper]]()[[Code]]().
-10. 
+9. **Memory augmented deep recurrent neural network for video question answering** `TCSVT 2019` [[paper]](https://ieeexplore.ieee.org/abstract/document/8845771).
+10. **** `` [[paper]]()[[Code]]().
+11. 
 
 #### Transformer
 1. **Beyond rnns: Positional self-attention with co-attention for video question answering** `AAAI 2019` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4887)[[Code]](https://github.com/lixiangpengcs/PSAC).
@@ -436,8 +437,10 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 5. **Learnable aggregating net with diversity learning for video question answering** `ACMMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3343031.3350971).
 6. **Long-form video question answering via dynamic hierarchical reinforced networks** `TIP 2019` [[paper]](https://ieeexplore.ieee.org/abstract/document/8737880).
 7. **Compositional attention networks with two-stream fusion for video question answering** `TIP 2019` [[paper]](https://ieeexplore.ieee.org/abstract/document/8839734).
-8. **** `` [[paper]]()[[Code]]().
-9. 
+8. **Frame augmented alternating attention network for video question answering** `TMM 2019` [[paper]](https://ieeexplore.ieee.org/abstract/document/8811730)[[Code]](https://github.com/wannature/video-qa-FAAAN).
+9. **Spatiotemporal-Textual Co-Attention Network for Video Question Answering** `TOMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3320061).
+10. **Video question answering via knowledge-based progressive spatial-temporal attention network** `TOMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3321505).
+11. 
 
 
 
