@@ -382,7 +382,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 3. **Video Question-Answering Techniques, Benchmark Datasets and Evaluation Metrics Leveraging Video Captioning: A Comprehensive Survey**  `IEEE Acess 2021` [[Paper]](https://ieeexplore.ieee.org/abstract/document/9350580). 
 4. **Recent Advances in Video Question Answering: A Review of Datasets and Methods**  `ICPR Workshops 2021` [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-68790-8_27). 
 
-#### Early Works
+#### Early Works (Varients of RNNs with Attention)
 1. **Uncovering the temporal context for video question answering** `arXiv 2015, IJCV 2017` [[paper]](https://arxiv.org/pdf/1511.04670.pdf)[[Code]](https://github.com/ffmpbgrnn/VideoQA).
 2. **Tgif-qa: Toward spatio-temporal reasoning in visual question answering** `CVPR 2017` [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Jang_TGIF-QA_Toward_Spatio-Temporal_CVPR_2017_paper.pdf)[[Code]](https://github.com/YunseokJANG/tgif-qa).
 3. **End-to-end concept word detection for video captioning, retrieval, and question answering** `CVPR 2017` [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_End-To-End_Concept_Word_CVPR_2017_paper.pdf)[[3rd Party Code]](https://github.com/YuliaNovskaya/cv31).
@@ -390,10 +390,18 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 5. **Video question answering via hierarchical dual-level attention network learning** `ACMMM 2017` [[paper]](https://dl.acm.org/doi/abs/10.1145/3123266.3123364).
 6. **Video question answering via attribute-augmented attention network learning** `SIGIR 2017` [[paper]](https://arxiv.org/pdf/1707.06355.pdf).
 7. **MarioQA: Answering Questions by Watching Gameplay Videos** `ICCV 2017` [[paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Mun_MarioQA_Answering_Questions_ICCV_2017_paper.pdf)[[Code]](https://github.com/JonghwanMun/MarioQA).
-8. 
+8. **Video Question Answering via Hierarchical Spatio-Temporal Attention Networks** `IJCAI 2017` [[paper]](https://www.ijcai.org/proceedings/2017/0492.pdf)[[Code]](https://github.com/s0sbazinga/videoqa-stan).
+9. **Unifying the video and question attentions for open-ended video question answering** `TIP 2017` [[paper]](https://ieeexplore.ieee.org/abstract/document/8017608)[[Code]](https://github.com/ZJULearning/videoqa).
+10. **Tvqa: Localized, compositional video question answering** `EMNLP 2018` [[paper]](https://arxiv.org/abs/1809.01696)[[Code]](https://github.com/jayleicn/TVQA).
+11. **** `` [[paper]]()[[Code]]().
+12. 
 #### Memory Networks
 1. **DeepStory: Video Story QA by Deep Embedded Memory Networks** `IJCAI 2017` [[paper]](https://arxiv.org/ftp/arxiv/papers/1707/1707.00836.pdf)[[Code]](https://github.com/Kyung-Min/Deep-Embedded-Memory-Networks).
-2. **** `` [[paper]]()[[Code]]().
+2. **Motion-appearance co-memory networks for video question answering** `CVPR 2018` [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gao_Motion-Appearance_Co-Memory_Networks_CVPR_2018_paper.pdf).
+3. **Multimodal dual attention memory for video story question answering** `ECCV 2018` [[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Kyungmin_Kim_Multimodal_Dual_Attention_ECCV_2018_paper.pdf).
+4. **Movie Question Answering: Remembering the Textual Cues for Layered Visual Contents** `AAAI 2018` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/12253).
+5. **** `` [[paper]]()[[Code]]().
+6. 
 
 #### Transformer
 1. **** `` [[paper]]()[[Code]]().
@@ -408,6 +416,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 1. **** `` [[paper]]()[[Code]]().
 2. 
 #### Others
-1. **** `` [[paper]]()[[Code]]().
-2. 
+1. **A joint sequence fusion model for video question answering and retrieval** `ECCV 2018` [[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Youngjae_Yu_A_Joint_Sequence_ECCV_2018_paper.pdf)[[Code]](https://github.com/yj-yu/lsmdc).
+2. **** `` [[paper]]()[[Code]]().
+3. 
 ### Leaderboards
