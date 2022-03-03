@@ -12,7 +12,7 @@ If you find this repository helpful for your work,  please kindly cite the follo
       title={Video Question Answering: Datasets, Algorithms and Challenges}, 
       author={Yaoyao Zhong and Wei Ji and Junbin Xiao and Yicong Li and Weihong Deng and Tat-Seng Chua},
       year={2022},
-      article={arXiv},
+      article={arXiv preprint arXiv:2203.01225},
 }
 </pre>
 
