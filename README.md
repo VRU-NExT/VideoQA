@@ -46,7 +46,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td><a href="https://arxiv.org/pdf/1511.04670.pdf">[Paper]</a>,
             <a href="https://github.com/ffmpbgrnn/VideoQA">[Dataset]</a></td>
 		<td> VideoQA, Factoid </td>
-		<td> Multiple source </td>
+		<td> Multiple Source </td>
 		<td> 109K/390K/-  </td>
 		<td> Auto</td>
 	</tr>
@@ -55,7 +55,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td><a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewFile/14906/14319">[Paper]</a>,
             <a href="http://aliensunmin.github.io/project/video-language/">[Dataset]</a></td>
 		<td> VideoQA, Factoid</td>
-		<td> Web videos</td>
+		<td> Web Videos</td>
 		<td> 18K/174K/90</td>
 		<td> Auto, Man</td>
 	</tr>	
@@ -93,7 +93,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td><a href="http://staff.ustc.edu.cn/~hexn/papers/mm17-videoQA.pdf">[Paper]</a>,
             <a href="https://github.com/xudejing/video-question-answering">[Dataset]</a></td>
 		<td> VideoQA, Factoid </td>
-		<td> Web videos </td>
+		<td> Web Videos </td>
 		<td> 1.9K/50K/10</td>
 		<td> Auto</td>
 	</tr>	
@@ -102,7 +102,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td><a href="http://staff.ustc.edu.cn/~hexn/papers/mm17-videoQA.pdf">[Paper]</a>,
             <a href="https://github.com/xudejing/video-question-answering">[Dataset]</a></td>
 		<td> VideoQA, Factoid</td>
-		<td> Web videos</td>
+		<td> Web Videos</td>
 		<td> 10K/243K/15</td>
 		<td> Auto</td>
 	</tr>	
