@@ -414,7 +414,10 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 1. **Beyond rnns: Positional self-attention with co-attention for video question answering** `AAAI 2019` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4887)[[Code]](https://github.com/lixiangpengcs/PSAC).
 2. **Multi-Question Learning for Visual Question Answering** `AAAI 2020` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6794).
 3. **BERT Representations for Video Question Answering** `WACV 2020` [[paper]](https://openaccess.thecvf.com/content_WACV_2020/papers/Yang_BERT_representations_for_Video_Question_Answering_WACV_2020_paper.pdf)[[Code]]().
-4. **** `` [[paper]]()[[Code]]().
+4. **HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training** `` [[paper]](https://arxiv.org/abs/2005.00200)[[Code]](https://github.com/linjieli222/HERO).
+5. **MMFT-BERT: Multimodal Fusion Transformer with BERT Encodings for Visual Question Answering** `EMNLP 2020` [[paper]](https://arxiv.org/abs/2010.14095)[[Code]](https://github.com/aurooj/MMFT-BERT).
+6. **** `` [[paper]]()[[Code]](). 
+7. **** `` [[paper]]()[[Code]](). 
 
 #### Graph Neural Networks
 1. **Location-Aware Graph Convolutional Networks for Video Question Answering** `AAAI 2020` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6737).
@@ -455,6 +458,9 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 ##### Knowledge Incorporation 
 1. **Video question answering via knowledge-based progressive spatial-temporal attention network** `TOMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3321505).
 2. **KnowIT VQA: Answering Knowledge-Based Questions about Videos** `AAAI 2020` [[paper]](https://github.com/noagarcia/knowit-rock)[[Code]](https://github.com/noagarcia/knowit-rock).
+
+##### Commonsense Incorporation 
+1. **Video2Commonsense: Generating Commonsense Descriptions to Enrich Video Captioning** `EMNLP 2020` [[paper]](https://arxiv.org/abs/2003.05162)[[Code]]().
 
 ##### Multi-task Learning
 1. **Gaining extra supervision via multi-task learning for multi-modal video question answering** `IJCNN 2019` [[paper]](https://ieeexplore.ieee.org/abstract/document/8852087).
