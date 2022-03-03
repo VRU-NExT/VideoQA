@@ -1,5 +1,3 @@
-# VideoQA
-
 # Video Question Answering: Datasets, Algorithms and Challenges
 
 ![](https://img.shields.io/badge/Status-building-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
@@ -393,15 +391,19 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 8. **Video Question Answering via Hierarchical Spatio-Temporal Attention Networks** `IJCAI 2017` [[paper]](https://www.ijcai.org/proceedings/2017/0492.pdf)[[Code]](https://github.com/s0sbazinga/videoqa-stan).
 9. **Unifying the video and question attentions for open-ended video question answering** `TIP 2017` [[paper]](https://ieeexplore.ieee.org/abstract/document/8017608)[[Code]](https://github.com/ZJULearning/videoqa).
 10. **Tvqa: Localized, compositional video question answering** `EMNLP 2018` [[paper]](https://arxiv.org/abs/1809.01696)[[Code]](https://github.com/jayleicn/TVQA).
-11. **** `` [[paper]]()[[Code]]().
-12. 
+11. **Explore multi-step reasoning in video question answering** `ACMMM 2018` [[paper]](https://dl.acm.org/doi/abs/10.1145/3240508.3240563)[[Code]](https://github.com/SVQA-founder/SVQA/tree/master/code).
+12. **Hierarchical relational attention for video question answering** `ICIP 2018` [[paper]](https://eprints.qut.edu.au/122718/1/icip_2018_eprint.pdf).
+13. **** `` [[paper]]()[[Code]]().
+14.  
 #### Memory Networks
 1. **DeepStory: Video Story QA by Deep Embedded Memory Networks** `IJCAI 2017` [[paper]](https://arxiv.org/ftp/arxiv/papers/1707/1707.00836.pdf)[[Code]](https://github.com/Kyung-Min/Deep-Embedded-Memory-Networks).
 2. **Motion-appearance co-memory networks for video question answering** `CVPR 2018` [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gao_Motion-Appearance_Co-Memory_Networks_CVPR_2018_paper.pdf).
 3. **Multimodal dual attention memory for video story question answering** `ECCV 2018` [[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Kyungmin_Kim_Multimodal_Dual_Attention_ECCV_2018_paper.pdf).
 4. **Movie Question Answering: Remembering the Textual Cues for Layered Visual Contents** `AAAI 2018` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/12253).
-5. **** `` [[paper]]()[[Code]]().
-6. 
+5. **A better way to attend: Attention with trees for video question answering** `TIP 2018` [[paper]](https://arxiv.org/pdf/1909.02218.pdf).
+6. **The forgettable-watcher model for video question answering** `Neurocomputing 2018` [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231218308075).
+7. **** `` [[paper]]()[[Code]]().
+8. 
 
 #### Transformer
 1. **** `` [[paper]]()[[Code]]().
@@ -417,6 +419,6 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 2. 
 #### Others
 1. **A joint sequence fusion model for video question answering and retrieval** `ECCV 2018` [[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Youngjae_Yu_A_Joint_Sequence_ECCV_2018_paper.pdf)[[Code]](https://github.com/yj-yu/lsmdc).
-2. **** `` [[paper]]()[[Code]]().
+2. **Open-Ended Long-form Video Question Answering via Adaptive Hierarchical Reinforced Networks** `IJCAI 2018` [[paper]](https://www.ijcai.org/Proceedings/2018/0512.pdf).
 3. 
 ### Leaderboards
