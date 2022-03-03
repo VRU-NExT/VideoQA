@@ -412,42 +412,57 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 
 #### Transformer
 1. **Beyond rnns: Positional self-attention with co-attention for video question answering** `AAAI 2019` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4887)[[Code]](https://github.com/lixiangpengcs/PSAC).
-2. **** `` [[paper]]()[[Code]]().
-3. 
+2. **Multi-Question Learning for Visual Question Answering** `AAAI 2020` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6794).
+3. **BERT Representations for Video Question Answering** `WACV 2020` [[paper]](https://openaccess.thecvf.com/content_WACV_2020/papers/Yang_BERT_representations_for_Video_Question_Answering_WACV_2020_paper.pdf)[[Code]]().
+4. **** `` [[paper]]()[[Code]]().
 
 #### Graph Neural Networks
 1. **Location-Aware Graph Convolutional Networks for Video Question Answering** `AAAI 2020` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6737).
 2. **Reasoning with heterogeneous graph alignment for video question answering** `AAAI 2020` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6767)[[Code]](https://github.com/Jumpin2/HGA).
-3. **** `` [[paper]]()[[Code]]().
+3. **Knowledge-based video question answering with unsupervised scene descriptions** `ECCV 2020` [[paper]](https://arxiv.org/pdf/2007.08751.pdf?ref=https://githubhelp.com)[[Code]]().
 4. 
 
 #### Modular Networks
 1. **Question-aware tube-switch network for video question answering** `ACMMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3343031.3350969).
 2. **Open-Ended Long-Form Video Question Answering via Hierarchical Convolutional Self-Attention Networks** `IJCAI 2019` [[paper]](https://arxiv.org/abs/1906.12158).
 3. **Hierarchical conditional relation networks for video question answering** `CVPR 2020` [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Le_Hierarchical_Conditional_Relation_Networks_for_Video_Question_Answering_CVPR_2020_paper.pdf)[[Code]](https://github.com/thaolmk54/hcrn-videoqa).
-4. 
+4. **** `` [[paper]]()[[Code]]().
+5. 
 
 #### Neural-Symbolic
-1. **** `` [[paper]]()[[Code]]().
-2. 
+1. **Clevrer: Collision events for video representation and reasoning** `ICLR 2020` [[paper]](https://arxiv.org/abs/1910.01442)[[Code]](https://github.com/chuangg/CLEVRER).
+2. **** `` [[paper]]()[[Code]]().
+3. 
+
+#### Flexibly Designed Networks
+1. **A joint sequence fusion model for video question answering and retrieval** `ECCV 2018` [[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Youngjae_Yu_A_Joint_Sequence_ECCV_2018_paper.pdf)[[Code]](https://github.com/yj-yu/lsmdc).
+2. **Structured Two-Stream Attention Network for Video Question Answering** `AAAI 2019` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4602).
+3. **Multi-interaction Network with Object Relation for Video Question Answering** `ACMMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3343031.3351065).
+4. **Learnable aggregating net with diversity learning for video question answering** `ACMMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3343031.3350971).
+5. **Compositional attention networks with two-stream fusion for video question answering** `TIP 2019` [[paper]](https://ieeexplore.ieee.org/abstract/document/8839734).
+6. **Frame augmented alternating attention network for video question answering** `TMM 2019` [[paper]](https://ieeexplore.ieee.org/abstract/document/8811730)[[Code]](https://github.com/wannature/video-qa-FAAAN).
+7. **Spatiotemporal-Textual Co-Attention Network for Video Question Answering** `TOMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3320061).
+8. **Modality shifting attention network for multi-modal video question answering** `CVPR 2020` [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_Modality_Shifting_Attention_Network_for_Multi-Modal_Video_Question_Answering_CVPR_2020_paper.pdf).
+9. **Divide and conquer: Question-guided spatio-temporal contextual attention for video question answering** `AAAI 2020` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6766).
+10. **Dual Hierarchical Temporal Convolutional Network with QA-Aware Dynamic Normalization for Video Story Question Answering** `ACMMM 2020` [[paper]](https://dl.acm.org/doi/abs/10.1145/3394171.3413649). 
 
 #### Others
-1. **A joint sequence fusion model for video question answering and retrieval** `ECCV 2018` [[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Youngjae_Yu_A_Joint_Sequence_ECCV_2018_paper.pdf)[[Code]](https://github.com/yj-yu/lsmdc).
-2. **Open-Ended Long-form Video Question Answering via Adaptive Hierarchical Reinforced Networks** `IJCAI 2018` [[paper]](https://www.ijcai.org/Proceedings/2018/0512.pdf).
-3. **Structured Two-Stream Attention Network for Video Question Answering** `AAAI 2019` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4602).
-4. **Multi-interaction Network with Object Relation for Video Question Answering** `ACMMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3343031.3351065).
-5. **Learnable aggregating net with diversity learning for video question answering** `ACMMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3343031.3350971).
-6. **Long-form video question answering via dynamic hierarchical reinforced networks** `TIP 2019` [[paper]](https://ieeexplore.ieee.org/abstract/document/8737880).
-7. **Compositional attention networks with two-stream fusion for video question answering** `TIP 2019` [[paper]](https://ieeexplore.ieee.org/abstract/document/8839734).
-8. **Frame augmented alternating attention network for video question answering** `TMM 2019` [[paper]](https://ieeexplore.ieee.org/abstract/document/8811730)[[Code]](https://github.com/wannature/video-qa-FAAAN).
-9. **Spatiotemporal-Textual Co-Attention Network for Video Question Answering** `TOMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3320061).
-10. **Video question answering via knowledge-based progressive spatial-temporal attention network** `TOMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3321505).
-11. **Gaining extra supervision via multi-task learning for multi-modal video question answering** `IJCNN 2019` [[paper]](https://ieeexplore.ieee.org/abstract/document/8852087).
-12. **Modality shifting attention network for multi-modal video question answering** `CVPR 2020` [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_Modality_Shifting_Attention_Network_for_Multi-Modal_Video_Question_Answering_CVPR_2020_paper.pdf).
-13. **KnowIT VQA: Answering Knowledge-Based Questions about Videos** `AAAI 2020` [[paper]](https://github.com/noagarcia/knowit-rock)[[Code]](https://github.com/noagarcia/knowit-rock).
-14. **Divide and conquer: Question-guided spatio-temporal contextual attention for video question answering** `AAAI 2020` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6766).
-15. **** `` [[paper]]()[[Code]]().
-16.   
+
+##### Reforced Decoder
+1. **Open-Ended Long-form Video Question Answering via Adaptive Hierarchical Reinforced Networks** `IJCAI 2018` [[paper]](https://www.ijcai.org/Proceedings/2018/0512.pdf).
+2. **Long-form video question answering via dynamic hierarchical reinforced networks** `TIP 2019` [[paper]](https://ieeexplore.ieee.org/abstract/document/8737880).
+
+##### Knowledge Incorporation 
+1. **Video question answering via knowledge-based progressive spatial-temporal attention network** `TOMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3321505).
+2. **KnowIT VQA: Answering Knowledge-Based Questions about Videos** `AAAI 2020` [[paper]](https://github.com/noagarcia/knowit-rock)[[Code]](https://github.com/noagarcia/knowit-rock).
+
+##### Multi-task Learning
+1. **Gaining extra supervision via multi-task learning for multi-modal video question answering** `IJCNN 2019` [[paper]](https://ieeexplore.ieee.org/abstract/document/8852087).
+2. **TVQA+: Spatio-Temporal Grounding for Video Question Answering** `ACL 2020` [[paper]](https://arxiv.org/abs/1904.11574)[[Code]](https://github.com/jayleicn/TVQAplus).
+
+##### Input Data
+1. **Data augmentation techniques for the Video Question Answering task** `ECCV 2020` [[paper]](https://arxiv.org/pdf/2008.09849.pdf).
+2. 
 
 
 
