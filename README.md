@@ -25,6 +25,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 ## Resources
 
 ### Open-sourced code
+
 ### Datasets
 
 <div style="overflow-x: auto; overflow-y: auto; height: auto; width:100%;">
@@ -372,13 +373,27 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 </table>
 </div>
 
-### Leaderboards
 ### Paper Lists 
 
 #### Survey
 
-1. **Video Question Answering: Datasets, Algorithms and Challenges** `arxiv 2022` [[paper]]()
+1. **Video Question Answering: Datasets, Algorithms and Challenges** `arxiv 2022` [[paper]](https://arxiv.org/abs/2203.01225)
 2. **Video question answering: a survey of models and datasets** `Mobile Networks and Applications 2021` [[paper]](https://link.springer.com/article/10.1007/s11036-020-01730-0)
 3. **Video Question-Answering Techniques, Benchmark Datasets and Evaluation Metrics Leveraging Video Captioning: A Comprehensive Survey**  `IEEE Acess 2021` [[pdf]](https://ieeexplore.ieee.org/abstract/document/9350580) 
 4. **Recent Advances in Video Question Answering: A Review of Datasets and Methods**  `ICPR Workshops 2021` [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-68790-8_27) 
 
+#### Early Works
+
+#### Memory Networks
+
+#### Transformer
+
+#### Graph Neural Networks
+
+#### Modular Networks
+
+#### Neural-Symbolic
+
+#### Others
+
+### Leaderboards
