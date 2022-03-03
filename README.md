@@ -377,23 +377,37 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 
 #### Survey
 
-1. **Video Question Answering: Datasets, Algorithms and Challenges** `arxiv 2022` [[paper]](https://arxiv.org/abs/2203.01225)
-2. **Video question answering: a survey of models and datasets** `Mobile Networks and Applications 2021` [[paper]](https://link.springer.com/article/10.1007/s11036-020-01730-0)
-3. **Video Question-Answering Techniques, Benchmark Datasets and Evaluation Metrics Leveraging Video Captioning: A Comprehensive Survey**  `IEEE Acess 2021` [[pdf]](https://ieeexplore.ieee.org/abstract/document/9350580) 
-4. **Recent Advances in Video Question Answering: A Review of Datasets and Methods**  `ICPR Workshops 2021` [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-68790-8_27) 
+1. **Video Question Answering: Datasets, Algorithms and Challenges** `arXiv 2022` [[Paper]](https://arxiv.org/abs/2203.01225).
+2. **Video question answering: a survey of models and datasets** `Mobile Networks and Applications 2021` [[Paper]](https://link.springer.com/article/10.1007/s11036-020-01730-0).
+3. **Video Question-Answering Techniques, Benchmark Datasets and Evaluation Metrics Leveraging Video Captioning: A Comprehensive Survey**  `IEEE Acess 2021` [[Paper]](https://ieeexplore.ieee.org/abstract/document/9350580). 
+4. **Recent Advances in Video Question Answering: A Review of Datasets and Methods**  `ICPR Workshops 2021` [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-68790-8_27). 
 
 #### Early Works
-
+1. **Uncovering the temporal context for video question answering** `arXiv 2015, IJCV 2017` [[paper]](https://arxiv.org/pdf/1511.04670.pdf)[[Code]](https://github.com/ffmpbgrnn/VideoQA).
+2. **Tgif-qa: Toward spatio-temporal reasoning in visual question answering** `CVPR 2017` [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Jang_TGIF-QA_Toward_Spatio-Temporal_CVPR_2017_paper.pdf)[[Code]](https://github.com/YunseokJANG/tgif-qa).
+3. **End-to-end concept word detection for video captioning, retrieval, and question answering** `CVPR 2017` [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_End-To-End_Concept_Word_CVPR_2017_paper.pdf)[[3rd Party Code]](https://github.com/YuliaNovskaya/cv31).
+4. **Video question answering via gradually refined attention over appearance and motion** `ACMMM 2017` [[paper]](http://staff.ustc.edu.cn/~hexn/papers/mm17-videoQA.pdf)[[Code]](https://github.com/xudejing/video-question-answering).
+5. **Video question answering via hierarchical dual-level attention network learning** `ACMMM 2017` [[paper]](https://dl.acm.org/doi/abs/10.1145/3123266.3123364).
+6. **Video question answering via attribute-augmented attention network learning** `SIGIR 2017` [[paper]](https://arxiv.org/pdf/1707.06355.pdf).
+7. **MarioQA: Answering Questions by Watching Gameplay Videos** `ICCV 2017` [[paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Mun_MarioQA_Answering_Questions_ICCV_2017_paper.pdf)[[Code]](https://github.com/JonghwanMun/MarioQA).
+8. 
 #### Memory Networks
+1. **DeepStory: Video Story QA by Deep Embedded Memory Networks** `IJCAI 2017` [[paper]](https://arxiv.org/ftp/arxiv/papers/1707/1707.00836.pdf)[[Code]](https://github.com/Kyung-Min/Deep-Embedded-Memory-Networks).
+2. **** `` [[paper]]()[[Code]]().
 
 #### Transformer
-
+1. **** `` [[paper]]()[[Code]]().
+2. 
 #### Graph Neural Networks
-
+1. **** `` [[paper]]()[[Code]]().
+2. 
 #### Modular Networks
-
+1. **** `` [[paper]]()[[Code]]().
+2. 
 #### Neural-Symbolic
-
+1. **** `` [[paper]]()[[Code]]().
+2. 
 #### Others
-
+1. **** `` [[paper]]()[[Code]]().
+2. 
 ### Leaderboards
