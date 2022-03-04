@@ -421,16 +421,18 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 6. **Action-Centric Relation Transformer Network for Video Question Answering** `TCSVT 2020` [[paper]](https://ieeexplore.ieee.org/abstract/document/9311693)[[Code]](https://github.com/op-multimodal/ACRTransformer). 
 7. **Less is more: Clipbert for video-and-language learning via sparse sampling** `CVPR 2021` [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lei_Less_Is_More_ClipBERT_for_Video-and-Language_Learning_via_Sparse_Sampling_CVPR_2021_paper.pdf)[[Code]](https://github.com/jayleicn/ClipBERT). 
 8. **Just Ask: Learning to Answer Questions from Millions of Narrated Videos** `ICCV 2021` [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Just_Ask_Learning_To_Answer_Questions_From_Millions_of_Narrated_ICCV_2021_paper.pdf)[[Code]](https://github.com/antoyang/just-ask). 
-9. **** `` [[paper]]()[[Code]]().
+9. **On the hidden treasure of dialog in video question answering** `ICCV 2021` [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Engin_On_the_Hidden_Treasure_of_Dialog_in_Video_Question_Answering_ICCV_2021_paper.pdf)[[Code]](https://github.com/InterDigitalInc/DialogSummary-VideoQA).
 10. **** `` [[paper]]()[[Code]]().
+11. **** `` [[paper]]()[[Code]]().
 
 #### Graph Neural Networks
 1. **Location-Aware Graph Convolutional Networks for Video Question Answering** `AAAI 2020` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6737).
 2. **Reasoning with heterogeneous graph alignment for video question answering** `AAAI 2020` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6767)[[Code]](https://github.com/Jumpin2/HGA).
 3. **Knowledge-based video question answering with unsupervised scene descriptions** `ECCV 2020` [[paper]](https://arxiv.org/pdf/2007.08751.pdf?ref=https://githubhelp.com)[[Code]]().
 4. **Bridge To Answer: Structure-Aware Graph Interaction Network for Video Question Answering** `CVPR 2021` [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Park_Bridge_To_Answer_Structure-Aware_Graph_Interaction_Network_for_Video_Question_CVPR_2021_paper.pdf).
-5. **** `` [[paper]]()[[Code]]().
+5. **HAIR: Hierarchical Visual-Semantic Relational Reasoning for Video Question Answering** `ICCV 2021` [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_HAIR_Hierarchical_Visual-Semantic_Relational_Reasoning_for_Video_Question_Answering_ICCV_2021_paper.pdf).
 6. **** `` [[paper]]()[[Code]]().
+7. **** `` [[paper]]()[[Code]]().
 
 #### Modular Networks
 1. **Question-aware tube-switch network for video question answering** `ACMMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3343031.3350969).
@@ -458,7 +460,8 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 10. **Dual Hierarchical Temporal Convolutional Network with QA-Aware Dynamic Normalization for Video Story Question Answering** `ACMMM 2020` [[paper]](https://dl.acm.org/doi/abs/10.1145/3394171.3413649). 
 11. **Long video question answering: A Matching-guided Attention Model** `PR 2020` [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320320300546). 
 12. **SUTD-TrafficQA: A Question Answering Benchmark and an Efficient Network for Video Reasoning Over Traffic Events** `CVPR 2021` [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_SUTD-TrafficQA_A_Question_Answering_Benchmark_and_an_Efficient_Network_for_CVPR_2021_paper.pdf).
-13. **** `` [[paper]]()[[Code]](). 
+13. **Env-QA: A Video Question Answering Benchmark for Comprehensive Understanding of Dynamic Environments** `ICCV 2021` [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Gao_Env-QA_A_Video_Question_Answering_Benchmark_for_Comprehensive_Understanding_of_ICCV_2021_paper.pdf). 
+14. **Self-Supervised Pre-Training and Contrastive Representation Learning for Multiple-Choice Video QA** `AAAI 2021` [[paper]](https://arxiv.org/abs/2009.08043). 
 
 #### Others
 
