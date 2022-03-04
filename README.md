@@ -430,8 +430,9 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 1. **Question-aware tube-switch network for video question answering** `ACMMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3343031.3350969).
 2. **Open-Ended Long-Form Video Question Answering via Hierarchical Convolutional Self-Attention Networks** `IJCAI 2019` [[paper]](https://arxiv.org/abs/1906.12158).
 3. **Hierarchical conditional relation networks for video question answering** `CVPR 2020` [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Le_Hierarchical_Conditional_Relation_Networks_for_Video_Question_Answering_CVPR_2020_paper.pdf)[[Code]](https://github.com/thaolmk54/hcrn-videoqa).
-4. **** `` [[paper]]()[[Code]]().
-5. 
+4. **Neural Reasoning, Fast and Slow, for Video Question Answering** `IJCNN 2020` [[paper]](https://ieeexplore.ieee.org/abstract/document/9207580).
+5. **** `` [[paper]]()[[Code]]().
+6. **** `` [[paper]]()[[Code]]().
 
 #### Neural-Symbolic
 1. **Clevrer: Collision events for video representation and reasoning** `ICLR 2020` [[paper]](https://arxiv.org/abs/1910.01442)[[Code]](https://github.com/chuangg/CLEVRER).
@@ -463,6 +464,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 ##### Knowledge Incorporation 
 1. **Video question answering via knowledge-based progressive spatial-temporal attention network** `TOMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3321505).
 2. **KnowIT VQA: Answering Knowledge-Based Questions about Videos** `AAAI 2020` [[paper]](https://github.com/noagarcia/knowit-rock)[[Code]](https://github.com/noagarcia/knowit-rock).
+3. **Multichannel Attention Refinement for Video Question Answering** `TOMM 2020` [[paper]](https://dl.acm.org/doi/abs/10.1145/3366710).
 
 ##### Commonsense Incorporation 
 1. **Video2Commonsense: Generating Commonsense Descriptions to Enrich Video Captioning** `EMNLP 2020` [[paper]](https://arxiv.org/abs/2003.05162)[[Code]]().
