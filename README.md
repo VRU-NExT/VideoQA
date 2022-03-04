@@ -422,7 +422,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 7. **Less is more: Clipbert for video-and-language learning via sparse sampling** `CVPR 2021` [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lei_Less_Is_More_ClipBERT_for_Video-and-Language_Learning_via_Sparse_Sampling_CVPR_2021_paper.pdf)[[Code]](https://github.com/jayleicn/ClipBERT). 
 8. **Just Ask: Learning to Answer Questions from Millions of Narrated Videos** `ICCV 2021` [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Just_Ask_Learning_To_Answer_Questions_From_Millions_of_Narrated_ICCV_2021_paper.pdf)[[Code]](https://github.com/antoyang/just-ask). 
 9. **On the hidden treasure of dialog in video question answering** `ICCV 2021` [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Engin_On_the_Hidden_Treasure_of_Dialog_in_Video_Question_Answering_ICCV_2021_paper.pdf)[[Code]](https://github.com/InterDigitalInc/DialogSummary-VideoQA).
-10. **** `` [[paper]]()[[Code]]().
+10. **MERLOT: Multimodal Neural Script Knowledge Models** `NIPS 2021` [[paper]](https://proceedings.neurips.cc/paper/2021/file/c6d4eb15f1e84a36eff58eca3627c82e-Paper.pdf)[[Code]](https://github.com/rowanz/merlot).
 11. **** `` [[paper]]()[[Code]]().
 
 #### Graph Neural Networks
