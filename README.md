@@ -446,6 +446,8 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 1. **Clevrer: Collision events for video representation and reasoning** `ICLR 2020` [[paper]](https://arxiv.org/abs/1910.01442)[[Code]](https://github.com/chuangg/CLEVRER).
 2. **Grounding physical concepts of objects and events through dynamic visual reasoning** `ICLR 2021` [[paper]](https://arxiv.org/abs/2103.16564)[[Code]](https://github.com/zfchenUnique/DCL-Release).
 3. **Dynamic Visual Reasoning by Learning Differentiable Physics Models from Video and Language** `NIPS 2021` [[paper]](https://proceedings.neurips.cc/paper/2021/file/07845cd9aefa6cde3f8926d25138a3a2-Paper.pdf)[[Code]](https://github.com/dingmyu/VRDP).
+4. **STAR: A Benchmark for Situated Reasoning in Real-World Videos** `NIPS 2021` [[paper]](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/5ef059938ba799aaa845e1c2e8a762bd-Paper-round2.pdf)[[Code]](https://github.com/csbobby/STAR_Benchmark).
+5. 
 
 #### Flexibly Designed Networks
 1. **A joint sequence fusion model for video question answering and retrieval** `ECCV 2018` [[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Youngjae_Yu_A_Joint_Sequence_ECCV_2018_paper.pdf)[[Code]](https://github.com/yj-yu/lsmdc).
