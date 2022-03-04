@@ -393,8 +393,9 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 10. **Tvqa: Localized, compositional video question answering** `EMNLP 2018` [[paper]](https://arxiv.org/abs/1809.01696)[[Code]](https://github.com/jayleicn/TVQA).
 11. **Explore multi-step reasoning in video question answering** `ACMMM 2018` [[paper]](https://dl.acm.org/doi/abs/10.1145/3240508.3240563)[[Code]](https://github.com/SVQA-founder/SVQA/tree/master/code).
 12. **Hierarchical relational attention for video question answering** `ICIP 2018` [[paper]](https://eprints.qut.edu.au/122718/1/icip_2018_eprint.pdf).
-13. **** `` [[paper]]()[[Code]]().
-14. 
+13. **Temporal Attention and Consistency Measuring for Video Question Answering** `ICMI 2020` [[paper]](https://dl.acm.org/doi/abs/10.1145/3382507.3418886).
+14. **** `` [[paper]]()[[Code]]().
+15. **** `` [[paper]]()[[Code]]().
 
 
 #### Memory Networks
@@ -409,6 +410,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 9. **Memory augmented deep recurrent neural network for video question answering** `TCSVT 2019` [[paper]](https://ieeexplore.ieee.org/abstract/document/8845771).
 10. **Long-term video question answering via multimodal hierarchical memory attentive networks** `TCSVT 2020` [[paper]](https://ieeexplore.ieee.org/abstract/document/9097301)[[Code]]().
 11. **** `` [[paper]]()[[Code]]().
+12. **** `` [[paper]]()[[Code]]().
 
 #### Transformer
 1. **Beyond rnns: Positional self-attention with co-attention for video question answering** `AAAI 2019` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4887)[[Code]](https://github.com/lixiangpengcs/PSAC).
@@ -424,7 +426,8 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 1. **Location-Aware Graph Convolutional Networks for Video Question Answering** `AAAI 2020` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6737).
 2. **Reasoning with heterogeneous graph alignment for video question answering** `AAAI 2020` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6767)[[Code]](https://github.com/Jumpin2/HGA).
 3. **Knowledge-based video question answering with unsupervised scene descriptions** `ECCV 2020` [[paper]](https://arxiv.org/pdf/2007.08751.pdf?ref=https://githubhelp.com)[[Code]]().
-4. 
+4. **** `` [[paper]]()[[Code]]().
+5. **** `` [[paper]]()[[Code]]().
 
 #### Modular Networks
 1. **Question-aware tube-switch network for video question answering** `ACMMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3343031.3350969).
@@ -478,6 +481,8 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 1. **Data augmentation techniques for the Video Question Answering task** `ECCV 2020` [[paper]](https://arxiv.org/pdf/2008.09849.pdf).
 2. 
 
-
+##### Data Bias
+1. **On Modality Bias in the TVQA Dataset** `BMVC 2020` [[paper]](https://arxiv.org/abs/2012.10210)[[Code]](https://github.com/Jumperkables/tvqa_modality_bias).
+2. **What Gives the Answer Away? Question Answering Bias Analysis on Video QA Datasets** `arXiv 2020` [[paper]](https://arxiv.org/abs/2007.03626). 
 
 ### Leaderboards
