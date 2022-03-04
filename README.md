@@ -420,8 +420,9 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 5. **MMFT-BERT: Multimodal Fusion Transformer with BERT Encodings for Visual Question Answering** `EMNLP 2020` [[paper]](https://arxiv.org/abs/2010.14095)[[Code]](https://github.com/aurooj/MMFT-BERT).
 6. **Action-Centric Relation Transformer Network for Video Question Answering** `TCSVT 2020` [[paper]](https://ieeexplore.ieee.org/abstract/document/9311693)[[Code]](https://github.com/op-multimodal/ACRTransformer). 
 7. **Less is more: Clipbert for video-and-language learning via sparse sampling** `CVPR 2021` [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lei_Less_Is_More_ClipBERT_for_Video-and-Language_Learning_via_Sparse_Sampling_CVPR_2021_paper.pdf)[[Code]](https://github.com/jayleicn/ClipBERT). 
-8. **** `` [[paper]]()[[Code]](). 
+8. **Just Ask: Learning to Answer Questions from Millions of Narrated Videos** `ICCV 2021` [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Just_Ask_Learning_To_Answer_Questions_From_Millions_of_Narrated_ICCV_2021_paper.pdf)[[Code]](https://github.com/antoyang/just-ask). 
 9. **** `` [[paper]]()[[Code]]().
+10. **** `` [[paper]]()[[Code]]().
 
 #### Graph Neural Networks
 1. **Location-Aware Graph Convolutional Networks for Video Question Answering** `AAAI 2020` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6737).
@@ -456,7 +457,8 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 9. **Divide and conquer: Question-guided spatio-temporal contextual attention for video question answering** `AAAI 2020` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6766).
 10. **Dual Hierarchical Temporal Convolutional Network with QA-Aware Dynamic Normalization for Video Story Question Answering** `ACMMM 2020` [[paper]](https://dl.acm.org/doi/abs/10.1145/3394171.3413649). 
 11. **Long video question answering: A Matching-guided Attention Model** `PR 2020` [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320320300546). 
-12. **** `` [[paper]]()[[Code]]().
+12. **SUTD-TrafficQA: A Question Answering Benchmark and an Efficient Network for Video Reasoning Over Traffic Events** `CVPR 2021` [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_SUTD-TrafficQA_A_Question_Answering_Benchmark_and_an_Efficient_Network_for_CVPR_2021_paper.pdf).
+13. **** `` [[paper]]()[[Code]](). 
 
 #### Others
 
@@ -464,7 +466,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 1. **Open-Ended Long-form Video Question Answering via Adaptive Hierarchical Reinforced Networks** `IJCAI 2018` [[paper]](https://www.ijcai.org/Proceedings/2018/0512.pdf).
 2. **Long-form video question answering via dynamic hierarchical reinforced networks** `TIP 2019` [[paper]](https://ieeexplore.ieee.org/abstract/document/8737880).
 3. **Open-Ended Video Question Answering via Multi-Modal Conditional Adversarial Networks** `TIP 2020` [[paper]](https://ieeexplore.ieee.org/abstract/document/8974594).
-4. 
+4. **** `` [[paper]]()[[Code]](). 
 
 ##### Knowledge Incorporation 
 1. **Video question answering via knowledge-based progressive spatial-temporal attention network** `TOMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3321505).
@@ -481,7 +483,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 
 ##### Input Data
 1. **Data augmentation techniques for the Video Question Answering task** `ECCV 2020` [[paper]](https://arxiv.org/pdf/2008.09849.pdf).
-2. 
+2. **Video Question Answering Using Language-Guided Deep Compressed-Domain Video Feature** `ICCV 2021` [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Video_Question_Answering_Using_Language-Guided_Deep_Compressed-Domain_Video_Feature_ICCV_2021_paper.pdf).
 
 ##### Data Bias
 1. **On Modality Bias in the TVQA Dataset** `BMVC 2020` [[paper]](https://arxiv.org/abs/2012.10210)[[Code]](https://github.com/Jumperkables/tvqa_modality_bias).
