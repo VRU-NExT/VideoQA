@@ -407,8 +407,8 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 7. **Heterogeneous memory enhanced multimodal attention model for video question answering** `CVPR 2019` [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_Heterogeneous_Memory_Enhanced_Multimodal_Attention_Model_for_Video_Question_Answering_CVPR_2019_paper.pdf)[[Code]](https://github.com/fanchenyou/HME-VideoQA).
 8. **Progressive attention memory network for movie story question answering** `CVPR 2019` [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Progressive_Attention_Memory_Network_for_Movie_Story_Question_Answering_CVPR_2019_paper.pdf).
 9. **Memory augmented deep recurrent neural network for video question answering** `TCSVT 2019` [[paper]](https://ieeexplore.ieee.org/abstract/document/8845771).
-10. **** `` [[paper]]()[[Code]]().
-11. 
+10. **Long-term video question answering via multimodal hierarchical memory attentive networks** `TCSVT 2020` [[paper]](https://ieeexplore.ieee.org/abstract/document/9097301)[[Code]]().
+11. **** `` [[paper]]()[[Code]]().
 
 #### Transformer
 1. **Beyond rnns: Positional self-attention with co-attention for video question answering** `AAAI 2019` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4887)[[Code]](https://github.com/lixiangpengcs/PSAC).
@@ -416,8 +416,9 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 3. **BERT Representations for Video Question Answering** `WACV 2020` [[paper]](https://openaccess.thecvf.com/content_WACV_2020/papers/Yang_BERT_representations_for_Video_Question_Answering_WACV_2020_paper.pdf)[[Code]]().
 4. **HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training** `` [[paper]](https://arxiv.org/abs/2005.00200)[[Code]](https://github.com/linjieli222/HERO).
 5. **MMFT-BERT: Multimodal Fusion Transformer with BERT Encodings for Visual Question Answering** `EMNLP 2020` [[paper]](https://arxiv.org/abs/2010.14095)[[Code]](https://github.com/aurooj/MMFT-BERT).
-6. **** `` [[paper]]()[[Code]](). 
+6. **Action-Centric Relation Transformer Network for Video Question Answering** `TCSVT 2020` [[paper]](https://ieeexplore.ieee.org/abstract/document/9311693)[[Code]](https://github.com/op-multimodal/ACRTransformer). 
 7. **** `` [[paper]]()[[Code]](). 
+8. **** `` [[paper]]()[[Code]](). 
 
 #### Graph Neural Networks
 1. **Location-Aware Graph Convolutional Networks for Video Question Answering** `AAAI 2020` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6737).
