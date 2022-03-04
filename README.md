@@ -435,7 +435,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 #### Neural-Symbolic
 1. **Clevrer: Collision events for video representation and reasoning** `ICLR 2020` [[paper]](https://arxiv.org/abs/1910.01442)[[Code]](https://github.com/chuangg/CLEVRER).
 2. **** `` [[paper]]()[[Code]]().
-3. 
+3. **** `` [[paper]]()[[Code]]().
 
 #### Flexibly Designed Networks
 1. **A joint sequence fusion model for video question answering and retrieval** `ECCV 2018` [[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Youngjae_Yu_A_Joint_Sequence_ECCV_2018_paper.pdf)[[Code]](https://github.com/yj-yu/lsmdc).
@@ -448,12 +448,16 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 8. **Modality shifting attention network for multi-modal video question answering** `CVPR 2020` [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_Modality_Shifting_Attention_Network_for_Multi-Modal_Video_Question_Answering_CVPR_2020_paper.pdf).
 9. **Divide and conquer: Question-guided spatio-temporal contextual attention for video question answering** `AAAI 2020` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6766).
 10. **Dual Hierarchical Temporal Convolutional Network with QA-Aware Dynamic Normalization for Video Story Question Answering** `ACMMM 2020` [[paper]](https://dl.acm.org/doi/abs/10.1145/3394171.3413649). 
+11. **Long video question answering: A Matching-guided Attention Model** `PR 2020` [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320320300546). 
+12. **** `` [[paper]]()[[Code]]().
 
 #### Others
 
 ##### Reforced Decoder
 1. **Open-Ended Long-form Video Question Answering via Adaptive Hierarchical Reinforced Networks** `IJCAI 2018` [[paper]](https://www.ijcai.org/Proceedings/2018/0512.pdf).
 2. **Long-form video question answering via dynamic hierarchical reinforced networks** `TIP 2019` [[paper]](https://ieeexplore.ieee.org/abstract/document/8737880).
+3. **Open-Ended Video Question Answering via Multi-Modal Conditional Adversarial Networks** `TIP 2020` [[paper]](https://ieeexplore.ieee.org/abstract/document/8974594).
+4. 
 
 ##### Knowledge Incorporation 
 1. **Video question answering via knowledge-based progressive spatial-temporal attention network** `TOMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3321505).
@@ -465,6 +469,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 ##### Multi-task Learning
 1. **Gaining extra supervision via multi-task learning for multi-modal video question answering** `IJCNN 2019` [[paper]](https://ieeexplore.ieee.org/abstract/document/8852087).
 2. **TVQA+: Spatio-Temporal Grounding for Video Question Answering** `ACL 2020` [[paper]](https://arxiv.org/abs/1904.11574)[[Code]](https://github.com/jayleicn/TVQAplus).
+3. **Adversarial Multimodal Network for Movie Story Question Answering** `TMM 2020` [[paper]](https://ieeexplore.ieee.org/abstract/document/9117168).
 
 ##### Input Data
 1. **Data augmentation techniques for the Video Question Answering task** `ECCV 2020` [[paper]](https://arxiv.org/pdf/2008.09849.pdf).
