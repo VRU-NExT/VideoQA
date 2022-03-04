@@ -419,15 +419,17 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 4. **HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training** `` [[paper]](https://arxiv.org/abs/2005.00200)[[Code]](https://github.com/linjieli222/HERO).
 5. **MMFT-BERT: Multimodal Fusion Transformer with BERT Encodings for Visual Question Answering** `EMNLP 2020` [[paper]](https://arxiv.org/abs/2010.14095)[[Code]](https://github.com/aurooj/MMFT-BERT).
 6. **Action-Centric Relation Transformer Network for Video Question Answering** `TCSVT 2020` [[paper]](https://ieeexplore.ieee.org/abstract/document/9311693)[[Code]](https://github.com/op-multimodal/ACRTransformer). 
-7. **** `` [[paper]]()[[Code]](). 
+7. **Less is more: Clipbert for video-and-language learning via sparse sampling** `CVPR 2021` [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lei_Less_Is_More_ClipBERT_for_Video-and-Language_Learning_via_Sparse_Sampling_CVPR_2021_paper.pdf)[[Code]](https://github.com/jayleicn/ClipBERT). 
 8. **** `` [[paper]]()[[Code]](). 
+9. **** `` [[paper]]()[[Code]]().
 
 #### Graph Neural Networks
 1. **Location-Aware Graph Convolutional Networks for Video Question Answering** `AAAI 2020` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6737).
 2. **Reasoning with heterogeneous graph alignment for video question answering** `AAAI 2020` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6767)[[Code]](https://github.com/Jumpin2/HGA).
 3. **Knowledge-based video question answering with unsupervised scene descriptions** `ECCV 2020` [[paper]](https://arxiv.org/pdf/2007.08751.pdf?ref=https://githubhelp.com)[[Code]]().
-4. **** `` [[paper]]()[[Code]]().
+4. **Bridge To Answer: Structure-Aware Graph Interaction Network for Video Question Answering** `CVPR 2021` [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Park_Bridge_To_Answer_Structure-Aware_Graph_Interaction_Network_for_Video_Question_CVPR_2021_paper.pdf).
 5. **** `` [[paper]]()[[Code]]().
+6. **** `` [[paper]]()[[Code]]().
 
 #### Modular Networks
 1. **Question-aware tube-switch network for video question answering** `ACMMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3343031.3350969).
