@@ -442,8 +442,9 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 4. **Bridge To Answer: Structure-Aware Graph Interaction Network for Video Question Answering** `CVPR 2021` [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Park_Bridge_To_Answer_Structure-Aware_Graph_Interaction_Network_for_Video_Question_CVPR_2021_paper.pdf).
 5. **HAIR: Hierarchical Visual-Semantic Relational Reasoning for Video Question Answering** `ICCV 2021` [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_HAIR_Hierarchical_Visual-Semantic_Relational_Reasoning_for_Video_Question_Answering_ICCV_2021_paper.pdf).
 6. **Progressive Graph Attention Network for Video Question Answering** `ACMMM 2021` [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475193)[[Code]](https://github.com/PengLiang-cn/PGAT).
-7. **** `` [[paper]]()[[Code]]().
+7. **Attend What You Need: Motion-Appearance Synergistic Networks for Video Question Answering** `ACL 2021` [[paper]](https://arxiv.org/abs/2106.10446)[[Code]](https://github.com/ahjeongseo/MASN-pytorch).
 8. **** `` [[paper]]()[[Code]]().
+9. **** `` [[paper]]()[[Code]]().
 
 #### Modular Networks
 1. **Question-aware tube-switch network for video question answering** `ACMMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3343031.3350969).
@@ -475,6 +476,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 12. **SUTD-TrafficQA: A Question Answering Benchmark and an Efficient Network for Video Reasoning Over Traffic Events** `CVPR 2021` [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_SUTD-TrafficQA_A_Question_Answering_Benchmark_and_an_Efficient_Network_for_CVPR_2021_paper.pdf).
 13. **Env-QA: A Video Question Answering Benchmark for Comprehensive Understanding of Dynamic Environments** `ICCV 2021` [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Gao_Env-QA_A_Video_Question_Answering_Benchmark_for_Comprehensive_Understanding_of_ICCV_2021_paper.pdf). 
 14. **Self-Supervised Pre-Training and Contrastive Representation Learning for Multiple-Choice Video QA** `AAAI 2021` [[paper]](https://arxiv.org/abs/2009.08043). 
+15. **Pairwise VLAD Interaction Network for Video Question Answering** `ACMMM 2021` [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475620).
 
 #### Others
 
@@ -488,6 +490,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 1. **Video question answering via knowledge-based progressive spatial-temporal attention network** `TOMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3321505).
 2. **KnowIT VQA: Answering Knowledge-Based Questions about Videos** `AAAI 2020` [[paper]](https://github.com/noagarcia/knowit-rock)[[Code]](https://github.com/noagarcia/knowit-rock).
 3. **Multichannel Attention Refinement for Video Question Answering** `TOMM 2020` [[paper]](https://dl.acm.org/doi/abs/10.1145/3366710).
+4. **Transferring Domain-Agnostic Knowledge in Video Question Answering** `BMVC 2021` [[paper]](https://arxiv.org/abs/2110.13395).
 
 ##### Commonsense Incorporation 
 1. **Video2Commonsense: Generating Commonsense Descriptions to Enrich Video Captioning** `EMNLP 2020` [[paper]](https://arxiv.org/abs/2003.05162)[[Code]]().
