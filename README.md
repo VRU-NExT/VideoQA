@@ -432,7 +432,8 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 8. **Just Ask: Learning to Answer Questions from Millions of Narrated Videos** `ICCV 2021` [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Just_Ask_Learning_To_Answer_Questions_From_Millions_of_Narrated_ICCV_2021_paper.pdf)[[Code]](https://github.com/antoyang/just-ask). 
 9. **On the hidden treasure of dialog in video question answering** `ICCV 2021` [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Engin_On_the_Hidden_Treasure_of_Dialog_in_Video_Question_Answering_ICCV_2021_paper.pdf)[[Code]](https://github.com/InterDigitalInc/DialogSummary-VideoQA).
 10. **MERLOT: Multimodal Neural Script Knowledge Models** `NIPS 2021` [[paper]](https://proceedings.neurips.cc/paper/2021/file/c6d4eb15f1e84a36eff58eca3627c82e-Paper.pdf)[[Code]](https://github.com/rowanz/merlot).
-11. **** `` [[paper]]()[[Code]]().
+11. **Learning from Inside: Self-driven Siamese Sampling and Reasoning for Video Question Answering ** `NIPS 2021` [[paper]](https://proceedings.neurips.cc/paper/2021/file/dea184826614d3f4c608731389ed0c74-Paper.pdf).
+12. **** `` [[paper]]()[[Code]]().
 
 #### Graph Neural Networks
 1. **Location-Aware Graph Convolutional Networks for Video Question Answering** `AAAI 2020` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6737).
@@ -440,8 +441,9 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 3. **Knowledge-based video question answering with unsupervised scene descriptions** `ECCV 2020` [[paper]](https://arxiv.org/pdf/2007.08751.pdf?ref=https://githubhelp.com)[[Code]]().
 4. **Bridge To Answer: Structure-Aware Graph Interaction Network for Video Question Answering** `CVPR 2021` [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Park_Bridge_To_Answer_Structure-Aware_Graph_Interaction_Network_for_Video_Question_CVPR_2021_paper.pdf).
 5. **HAIR: Hierarchical Visual-Semantic Relational Reasoning for Video Question Answering** `ICCV 2021` [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_HAIR_Hierarchical_Visual-Semantic_Relational_Reasoning_for_Video_Question_Answering_ICCV_2021_paper.pdf).
-6. **** `` [[paper]]()[[Code]]().
+6. **Progressive Graph Attention Network for Video Question Answering** `ACMMM 2021` [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475193)[[Code]](https://github.com/PengLiang-cn/PGAT).
 7. **** `` [[paper]]()[[Code]]().
+8. **** `` [[paper]]()[[Code]]().
 
 #### Modular Networks
 1. **Question-aware tube-switch network for video question answering** `ACMMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3343031.3350969).
