@@ -477,6 +477,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 13. **Env-QA: A Video Question Answering Benchmark for Comprehensive Understanding of Dynamic Environments** `ICCV 2021` [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Gao_Env-QA_A_Video_Question_Answering_Benchmark_for_Comprehensive_Understanding_of_ICCV_2021_paper.pdf). 
 14. **Self-Supervised Pre-Training and Contrastive Representation Learning for Multiple-Choice Video QA** `AAAI 2021` [[paper]](https://arxiv.org/abs/2009.08043). 
 15. **Pairwise VLAD Interaction Network for Video Question Answering** `ACMMM 2021` [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475620).
+16. **Question-Guided Erasing-Based Spatiotemporal Attention Learning for Video Question Answering** `TNNLS 2021` [[paper]](https://ieeexplore.ieee.org/abstract/document/9525823/).
 
 #### Others
 
