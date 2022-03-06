@@ -313,11 +313,20 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 	<td><code>DramaQA</code></td>
 		<td><a href="https://arxiv.org/abs/2005.03356">[Paper]</a>,
             <a href="https://dramaqa.snu.ac.kr/">[Dataset]</a>,
-            <a href="https://github.com/liveseongho/DramaQAChallenge2020">[Dataset]</a></td>
+            <a href="https://github.com/liveseongho/DramaQAChallenge2020">[Code]</a></td>
 		<td> MM VideoQA, Inference </td>
 		<td> TV</td>
 		<td> 23K/17K/- </td>
 		<td> Man </td>
+	</tr>	
+		<td><code>STAR</code></td>
+		<td><a href="https://openreview.net/pdf?id=EfgNF5-ZAjM">[Paper]</a>,
+            <a href="http://star.csail.mit.edu/">[Dataset]</a>,
+            <a href="https://github.com/csbobby/STAR_Benchmark">[Code]</a></td>
+		<td> VideoQA, Inference </td>
+		<td> Homemade videos</td>
+		<td> 22K/60K/- </td>
+		<td> Auto </td>
 	</tr>	
 	<td><code>TGIF-QA-R</code></td>
 		<td><a href="https://dl.acm.org/doi/abs/10.1145/3474085.3475193">[Paper]</a>,
