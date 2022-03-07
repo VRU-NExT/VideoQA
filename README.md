@@ -2,9 +2,9 @@
 
 ![](https://img.shields.io/badge/Status-building-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
-This repository contains a list of papers, codes, datasets, leaderboards of Video Question Answering (VideoQA). If you found any error, please don't hesitate to open an issue or pull request.
+This repository contains a list of datasets, papers, codes, and leaderboards of Video Question Answering (VideoQA). If you found any error, please don't hesitate to open an issue or pull request.
 
-If you find this repository helpful for your work,  please kindly cite the following paper. The Bibtex are listed below:
+If you find this repository helpful for your work,  please kindly cite the following [paper](https://arxiv.org/abs/2203.01225). The Bibtex are listed below:
 <pre>
 @article{zhong2022Video,
       title={Video Question Answering: Datasets, Algorithms and Challenges}, 
@@ -16,7 +16,7 @@ If you find this repository helpful for your work,  please kindly cite the follo
 
 ## Contributor
 
-Contributed by [Yaoyao Zhong](https://zhongyy.github.io) and [Wei Ji]().
+Contributed by [Yaoyao Zhong](https://github.com/zhongyy) and [Wei Ji]().
 
 Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com/)!
 
