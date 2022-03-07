@@ -447,7 +447,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 7. **Attend What You Need: Motion-Appearance Synergistic Networks for Video Question Answering** `ACL 2021` [[paper]](https://arxiv.org/abs/2106.10446)[[Code]](https://github.com/ahjeongseo/MASN-pytorch).
 8. **DualVGR: A Dual-Visual Graph Reasoning Unit for Video Question Answering** `TMM 2021` [[paper]](https://ieeexplore.ieee.org/abstract/document/9488296/)[[Code]](https://github.com/MM-IR/DualVGR-VideoQA).
 9. **Object-Centric Representation Learning for Video Question Answering** `IJCNN 2021` [[paper]](https://ieeexplore.ieee.org/abstract/document/9533961).
-10. **** `` [[paper]]()[[Code]]().
+10. **Video as Conditional Graph Hierarchy for Multi-Granular Question Answering** `AAAI 2022` [[paper]](https://arxiv.org/abs/2112.06197)[[Code]](https://github.com/doc-doc/HQGA).
 
 #### Modular Networks
 1. **Question-aware tube-switch network for video question answering** `ACMMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3343031.3350969).
@@ -455,7 +455,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 3. **Hierarchical conditional relation networks for video question answering** `CVPR 2020` [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Le_Hierarchical_Conditional_Relation_Networks_for_Video_Question_Answering_CVPR_2020_paper.pdf)[[Code]](https://github.com/thaolmk54/hcrn-videoqa).
 4. **Neural Reasoning, Fast and Slow, for Video Question Answering** `IJCNN 2020` [[paper]](https://ieeexplore.ieee.org/abstract/document/9207580).
 5. **** `` [[paper]]()[[Code]]().
-6. **** `` [[paper]]()[[Code]]().
+
 
 #### Neural-Symbolic
 1. **Clevrer: Collision events for video representation and reasoning** `ICLR 2020` [[paper]](https://arxiv.org/abs/1910.01442)[[Code]](https://github.com/chuangg/CLEVRER).
