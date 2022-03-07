@@ -434,7 +434,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 8. **Just Ask: Learning to Answer Questions from Millions of Narrated Videos** `ICCV 2021` [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Just_Ask_Learning_To_Answer_Questions_From_Millions_of_Narrated_ICCV_2021_paper.pdf)[[Code]](https://github.com/antoyang/just-ask). 
 9. **On the hidden treasure of dialog in video question answering** `ICCV 2021` [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Engin_On_the_Hidden_Treasure_of_Dialog_in_Video_Question_Answering_ICCV_2021_paper.pdf)[[Code]](https://github.com/InterDigitalInc/DialogSummary-VideoQA).
 10. **MERLOT: Multimodal Neural Script Knowledge Models** `NIPS 2021` [[paper]](https://proceedings.neurips.cc/paper/2021/file/c6d4eb15f1e84a36eff58eca3627c82e-Paper.pdf)[[Code]](https://github.com/rowanz/merlot).
-11. **Learning from Inside: Self-driven Siamese Sampling and Reasoning for Video Question Answering ** `NIPS 2021` [[paper]](https://proceedings.neurips.cc/paper/2021/file/dea184826614d3f4c608731389ed0c74-Paper.pdf).
+11. **Learning from Inside: Self-driven Siamese Sampling and Reasoning for Video Question Answering** `NIPS 2021` [[paper]](https://proceedings.neurips.cc/paper/2021/file/dea184826614d3f4c608731389ed0c74-Paper.pdf).
 12. **A comparative study of language transformers for video question answering** `Neurocomputing 2021` [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231221003507).
 13. **Temporal Pyramid Transformer with Multimodal Interaction for Video Question Answering** `arXiv 2021` [[paper]](https://arxiv.org/abs/2109.04735)[[Code]](https://github.com/Trunpm/TPT-for-VideoQA).
 
