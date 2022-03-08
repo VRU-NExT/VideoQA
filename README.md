@@ -93,7 +93,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<a href="https://github.com/rowanz/merlot">[MERLOT-NIPS]</a>
 		<a href="https://github.com/dingmyu/VRDP">[VRDP-NIPS]</a>
 		<a href="https://github.com/csbobby/STAR_Benchmark">[STAR-NIPS]</a>
-		<a href="https://github.com/PengLiang-cn/PGAT">[PGAT-AMMMM]</a>
+		<a href="https://github.com/PengLiang-cn/PGAT">[PGAT-ACMMM]</a>
 		<a href="https://github.com/ahjeongseo/MASN-pytorch">[MASN-ACL]</a>
 		<a href="https://github.com/NJUPT-MCC/DualVGR-VideoQA">[MASN-TMM]</a>
 		<a href="https://github.com/amanchadha/iPerceive">[iPerceive-BMVC]</a>
