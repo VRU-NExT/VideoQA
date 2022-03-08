@@ -112,6 +112,29 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 
 ### Leaderboards
 
+#### Factoid QA
+<div style="overflow-x: auto; overflow-y: auto; height: auto; width:100%;">
+<table style="width:100%" border="2">
+<thead>
+  <tr>
+    <th>Name</th>
+    <th>TGIF-Action</th>
+    <th>TGIF-Transition</th>
+    <th>TGIF-Frame</th>   
+    <th>TGIF-Count</th>
+    <th>MSVD-QA</th>
+    <th>MSRVTT-QA</th>
+  </tr>
+</thead>
+
+<tbody>
+
+</tbody>
+</table>
+</div>
+
+#### Inference QA
+	
 ### Datasets
 
 <div style="overflow-x: auto; overflow-y: auto; height: auto; width:100%;">
