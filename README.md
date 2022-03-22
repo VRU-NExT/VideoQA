@@ -133,13 +133,63 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 <tbody>
 <tr>
     <th>1</th>
-    <th><a href="">[]</th>
-    <th></th>
-    <th></th>
-    <th></th>   
-    <th></th>
-    <th></th>
-    <th></th>
+    <th><a href="https://arxiv.org/abs/2106.10446">[MASN-ACL2021]</th>
+    <th>RN, I3D, RoI</th>
+    <th>Glove</th>
+    <th>84.4</th>   
+    <th>87.4</th>
+    <th>59.5</th>
+    <th>3.75</th>
+    <th>38.0</th>
+    <th>35.2</th>
+</tr>
+<tr>
+    <th>2</th>
+    <th><a href="https://arxiv.org/abs/2112.06197">[HQGA-AAAI2022]</th>
+    <th>RN, RX(3D), RoI</th>
+    <th>BERT</th>
+    <th>76.9</th>   
+    <th>85.6</th>
+    <th>61.3</th>
+    <th>/</th>
+    <th>41.2</th>
+    <th>38.6</th>
+</tr>
+<tr>
+    <th>3</th>
+    <th><a href="https://dl.acm.org/doi/abs/10.1145/3474085.3475193">[PGAT-ACMMM2021]</th>
+    <th>RN, RX(3D), RoI</th>
+    <th>Glove</th>
+    <th>80.6</th>   
+    <th>85.7</th>
+    <th>61.1</th>
+    <th>3.96</th>
+    <th>39.0</th>
+    <th>38.1</th>
+</tr>
+<tr>
+    <th>4</th>
+    <th><a href="https://arxiv.org/abs/2106.13432">[HOSTR-IJCAI2021]</th>
+    <th>RN, RX(3D), RoI</th>
+    <th>Glove</th>
+    <th>75.6</th>   
+    <th>82.1</th>
+    <th>58.2</th>
+    <th>4.13</th>
+    <th>39.4</th>
+    <th>35.9</th>
+</tr>
+<tr>
+    <th>5</th>
+    <th><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_HAIR_Hierarchical_Visual-Semantic_Relational_Reasoning_for_Video_Question_Answering_ICCV_2021_paper.pdf">[HAIR-ICCV2021]</th>
+    <th>RoI</th>
+    <th>Glove</th>
+    <th>77.8</th>   
+    <th>82.3</th>
+    <th>60.2</th>
+    <th>3.88</th>
+    <th>37.5</th>
+    <th>36.9</th>
 </tr>
 </tbody>
 </table>
@@ -602,6 +652,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 2. **Open-Ended Long-Form Video Question Answering via Hierarchical Convolutional Self-Attention Networks** `IJCAI 2019` [[paper]](https://arxiv.org/abs/1906.12158).
 3. **Hierarchical conditional relation networks for video question answering** `CVPR 2020` [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Le_Hierarchical_Conditional_Relation_Networks_for_Video_Question_Answering_CVPR_2020_paper.pdf)[[Code]](https://github.com/thaolmk54/hcrn-videoqa).
 4. **Neural Reasoning, Fast and Slow, for Video Question Answering** `IJCNN 2020` [[paper]](https://ieeexplore.ieee.org/abstract/document/9207580).
+5. **Hierarchical Object-oriented Spatio-Temporal Reasoning for Video Question Answering** `IJCAI 2021` [[paper]](https://arxiv.org/abs/2106.13432).
 
 
 
