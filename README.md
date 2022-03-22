@@ -113,6 +113,82 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 ### Leaderboards
 
 #### Factoid QA 
+##### Pre-Training 
+<div style="overflow-x: auto; overflow-y: auto; height: auto; width:100%;">
+<table style="width:100%" border="2">
+<thead>
+  <tr>
+    <th>Rank</th>
+    <th>Name</th>
+    <th>Cross-Modal Pre-Training</th>
+    <th>TGIF-Action</th>
+    <th>TGIF-Transition</th>
+    <th>TGIF-Frame</th>   
+    <th>TGIF-Count</th>
+    <th>MSVD-QA</th>
+    <th>MSRVTT-QA</th>
+  </tr>
+</thead>
+<tbody>
+<tr>
+    <th>1</th>
+    <th><a href="https://proceedings.neurips.cc/paper/2021/file/c6d4eb15f1e84a36eff58eca3627c82e-Paper.pdf">[MERLOT-NIPS2021]</th>
+    <th> Youtube-Temporal-180M & Conceptual Captions-3M </th>
+    <th>94.0</th>   
+    <th>96.2</th>
+    <th>69.5</th>
+    <th>/</th>
+    <th>/</th>
+    <th>43.1</th>
+</tr>
+<tr>
+    <th>2</th>
+    <th><a href="">[VIOLET]</th>
+    <th> WebVid2.5M & Youtube-Temporal-180M & Conceptual Captions-3M </th>
+    <th>92.5</th>   
+    <th>95.7</th>
+    <th>68.9</th>
+    <th>/</th>
+    <th>47.9</th>
+    <th>43.9</th>
+</tr>
+<tr>
+    <th>3</th>
+    <th><a href="https://proceedings.neurips.cc/paper/2021/file/dea184826614d3f4c608731389ed0c74-Paper.pdf">[SSRea-NIPS2021]</th>
+    <th>Visual Genome & COCO </th>
+    <th>79.7</th>   
+    <th>85.3</th>
+    <th>60.2</th>
+    <th>3.61</th>
+    <th>45.5</th>
+    <th>41.6</th>
+</tr>
+<tr>
+    <th>4</th>
+    <th><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Just_Ask_Learning_To_Answer_Questions_From_Millions_of_Narrated_ICCV_2021_paper.pdf">[VQA-T-ICCV2021]</th>
+    <th>H2VQA69M</th>
+    <th>/</th>   
+    <th>/</th>
+    <th>/</th>
+    <th>/</th>
+    <th>46.3</th>
+    <th>41.5</th>
+</tr>
+<tr>
+    <th>5</th>
+    <th><a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Lei_Less_Is_More_ClipBERT_for_Video-and-Language_Learning_via_Sparse_Sampling_CVPR_2021_paper.pdf">[ClipBERT-CVPR2021]</th>
+    <th>Visual Genome & COCO</th>
+    <th>82.8</th>   
+    <th>87.8</th>
+    <th>60.3</th>
+    <th>/</th>
+    <th>/</th>
+    <th>37.4</th>
+</tr>
+</tbody>
+</table>
+</div>
+
 ##### No Pre-Training 
 <div style="overflow-x: auto; overflow-y: auto; height: auto; width:100%;">
 <table style="width:100%" border="2">
@@ -631,6 +707,9 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 11. **Learning from Inside: Self-driven Siamese Sampling and Reasoning for Video Question Answering** `NIPS 2021` [[paper]](https://proceedings.neurips.cc/paper/2021/file/dea184826614d3f4c608731389ed0c74-Paper.pdf).
 12. **A comparative study of language transformers for video question answering** `Neurocomputing 2021` [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231221003507).
 13. **Temporal Pyramid Transformer with Multimodal Interaction for Video Question Answering** `arXiv 2021` [[paper]](https://arxiv.org/abs/2109.04735)[[Code]](https://github.com/Trunpm/TPT-for-VideoQA).
+14. **Violet: End-to-end video-language transformers with masked visual-token modeling** `arXiv 2021` [[paper]](https://arxiv.org/abs/2111.12681)[[Code]](https://github.com/tsujuifu/pytorch_violet).
+15. **Revitalize Region Feature for Democratizing Video-Language Pre-training** `arXiv 2021` [[paper]](https://arxiv.org/pdf/2203.07720.pdf)[[Code]](https://github.com/showlab/DemoVLP).
+
 
 
 #### Graph Neural Networks
