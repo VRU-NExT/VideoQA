@@ -273,20 +273,83 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 
 #### Inference QA
 
+##### NExT-QA
 <div style="overflow-x: auto; overflow-y: auto; height: auto; width:100%;">
 <table style="width:100%" border="2">
 <thead>
   <tr>
+    <th>Rank</th>
     <th>Name</th>
-    <th>CLEVRER-Task</th>
-    <th>CLEVRER-Question</th>
-    <th>NExT-QA-C</th>   
-    <th>NExT-QA-T</th>
-    <th>NExT-QA-D</th>
-    <th>NExT-QA</th>
+    <th>Val-C</th>   
+    <th>Val-T</th>
+    <th>Val-D</th>
+    <th>Val-Overall</th>
+    <th>Test-C</th>   
+    <th>Test-T</th>
+    <th>Test-D</th>
+    <th>Test-Overall</th>
   </tr>
 </thead>
-
+  <tr>
+    <th>1</th>
+    <th><a href="https://arxiv.org/abs/2202.09277">[(2.5+1)D-Transformer-AAAI2022]</th>
+    <th>/</th>   
+    <th>/</th>
+    <th>/</th>
+    <th>53.4</th>
+    <th>/</th>   
+    <th>/</th>
+    <th>/</th>
+    <th>/</th>
+  </tr>
+  <tr>
+    <th>2</th>
+    <th><a href="https://arxiv.org/abs/2112.06197">[HQGA-AAAI2022]</th>
+    <th>/</th>   
+    <th>/</th>
+    <th>/</th>
+    <th>51.42</th>
+    <th>49.04</th>   
+    <th>52.28</th>
+    <th>59.43</th>
+    <th>51.75</th>
+  </tr>
+  <tr>
+    <th>3</th>
+    <th><a href="">[IGV-CVPR2022]</th>
+    <th>/</th>   
+    <th>/</th>
+    <th>/</th>
+    <th>/</th>
+    <th>48.56</th>   
+    <th>51.67</th>
+    <th>59.64</th>
+    <th>51.34</th>
+  </tr>
+  <tr>
+    <th>4</th>
+    <th><a href="https://ojs.aaai.org/index.php/AAAI/article/view/6767">[HGA-AAAI2020]</th>
+    <th>46.26</th>   
+    <th>50.74</th>
+    <th>59.33</th>
+    <th>49.74</th>
+    <th>48.13</th>   
+    <th>49.08</th>
+    <th>57.79</th>
+    <th>50.01</th>
+  </tr>
+  <tr>
+    <th>5</th>
+    <th><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Le_Hierarchical_Conditional_Relation_Networks_for_Video_Question_Answering_CVPR_2020_paper.pdf">[HCRN-CVPR2020]</th>
+    <th>45.91</th>   
+    <th>49.26</th>
+    <th>53.67</th>
+    <th>48.20</th>
+    <th>47.07</th>   
+    <th>49.27</th>
+    <th>54.02</th>
+    <th>48.98</th>
+  </tr>
 <tbody>
 
 </tbody>
