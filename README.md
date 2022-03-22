@@ -112,18 +112,52 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 
 ### Leaderboards
 
-#### Factoid QA
+#### Factoid QA 
+##### No Pre-Training 
 <div style="overflow-x: auto; overflow-y: auto; height: auto; width:100%;">
 <table style="width:100%" border="2">
 <thead>
   <tr>
+    <th>Rank</th>
     <th>Name</th>
+    <th>Video Encoder</th>
+    <th>Text Encoder</th>
     <th>TGIF-Action</th>
     <th>TGIF-Transition</th>
     <th>TGIF-Frame</th>   
     <th>TGIF-Count</th>
     <th>MSVD-QA</th>
     <th>MSRVTT-QA</th>
+  </tr>
+</thead>
+<tbody>
+<tr>
+    <th>1</th>
+    <th><a href="">[]</th>
+    <th></th>
+    <th></th>
+    <th></th>   
+    <th></th>
+    <th></th>
+    <th></th>
+</tr>
+</tbody>
+</table>
+</div>
+
+#### Inference QA
+
+<div style="overflow-x: auto; overflow-y: auto; height: auto; width:100%;">
+<table style="width:100%" border="2">
+<thead>
+  <tr>
+    <th>Name</th>
+    <th>CLEVRER-Task</th>
+    <th>CLEVRER-Question</th>
+    <th>NExT-QA-C</th>   
+    <th>NExT-QA-T</th>
+    <th>NExT-QA-D</th>
+    <th>NExT-QA</th>
   </tr>
 </thead>
 
@@ -133,8 +167,6 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 </table>
 </div>
 
-#### Inference QA
-	
 ### Datasets
 
 <div style="overflow-x: auto; overflow-y: auto; height: auto; width:100%;">
@@ -516,6 +548,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 11. **Explore multi-step reasoning in video question answering** `ACMMM 2018` [[paper]](https://dl.acm.org/doi/abs/10.1145/3240508.3240563)[[Code]](https://github.com/SVQA-founder/SVQA/tree/master/code).
 12. **Hierarchical relational attention for video question answering** `ICIP 2018` [[paper]](https://eprints.qut.edu.au/122718/1/icip_2018_eprint.pdf).
 13. **Temporal Attention and Consistency Measuring for Video Question Answering** `ICMI 2020` [[paper]](https://dl.acm.org/doi/abs/10.1145/3382507.3418886).
+14. **Video Question Answering with Spatio-Temporal Reasoning** `IJCV 2019` [[paper]](https://link.springer.com/article/10.1007/s11263-019-01189-x).
 
 
 
@@ -562,6 +595,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 9. **Object-Centric Representation Learning for Video Question Answering** `IJCNN 2021` [[paper]](https://ieeexplore.ieee.org/abstract/document/9533961).
 10. **Video as Conditional Graph Hierarchy for Multi-Granular Question Answering** `AAAI 2022` [[paper]](https://arxiv.org/abs/2112.06197)[[Code]](https://github.com/doc-doc/HQGA).
 11. **Cross-Attentional Spatio-Temporal Semantic Graph Networks for Video Question Answering** `TIP 2022` [[paper]](https://ieeexplore.ieee.org/abstract/document/9686595).
+12. **(2.5+1)D Spatio-Temporal Scene Graphs for Video Question Answering** `AAAI 2022` [[paper]](https://arxiv.org/abs/2202.09277).
 
 #### Modular Networks
 1. **Question-aware tube-switch network for video question answering** `ACMMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3343031.3350969).
