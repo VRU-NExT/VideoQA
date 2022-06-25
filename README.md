@@ -16,7 +16,7 @@ If you find this repository helpful for your work,  please kindly cite the follo
 
 ## Contributor
 
-Contributed by [Yaoyao Zhong](https://github.com/zhongyy) and [Wei Ji](https://jiwei0523.github.io).
+Contributed by [Yaoyao Zhong](https://github.com/zhongyy), [Junbin Xiao](https://github.com/doc-doc), and [Wei Ji](https://jiwei0523.github.io).
 
 Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com/)!
 
