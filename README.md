@@ -115,6 +115,8 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 
 ### Leaderboards
 
+
+    
 #### Factoid QA 
 ##### Pre-Training 
 <div style="overflow-x: auto; overflow-y: auto; height: auto; width:100%;">
@@ -124,10 +126,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
     <th>Rank</th>
     <th>Name</th>
     <th>Cross-Modal Pre-Training</th>
-    <th>TGIF-Action</th>
-    <th>TGIF-Transition</th>
     <th>TGIF-Frame</th>   
-    <th>TGIF-Count</th>
     <th>MSVD-QA</th>
     <th>MSRVTT-QA</th>
   </tr>
@@ -137,10 +136,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
     <th>1</th>
     <th><a href="https://proceedings.neurips.cc/paper/2021/file/c6d4eb15f1e84a36eff58eca3627c82e-Paper.pdf">[MERLOT-NIPS2021]</th>
     <th> Youtube-Temporal-180M & Conceptual Captions-3M </th>
-    <th>94.0</th>   
-    <th>96.2</th>
     <th>69.5</th>
-    <th>/</th>
     <th>/</th>
     <th>43.1</th>
 </tr>
@@ -148,10 +144,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
     <th>2</th>
     <th><a href="">[VIOLET]</th>
     <th> WebVid2.5M & Youtube-Temporal-180M & Conceptual Captions-3M </th>
-    <th>92.5</th>   
-    <th>95.7</th>
     <th>68.9</th>
-    <th>/</th>
     <th>47.9</th>
     <th>43.9</th>
 </tr>
@@ -159,10 +152,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
     <th>3</th>
     <th><a href="https://proceedings.neurips.cc/paper/2021/file/dea184826614d3f4c608731389ed0c74-Paper.pdf">[SSRea-NIPS2021]</th>
     <th>Visual Genome & COCO </th>
-    <th>79.7</th>   
-    <th>85.3</th>
     <th>60.2</th>
-    <th>3.61</th>
     <th>45.5</th>
     <th>41.6</th>
 </tr>
@@ -170,9 +160,6 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
     <th>4</th>
     <th><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Just_Ask_Learning_To_Answer_Questions_From_Millions_of_Narrated_ICCV_2021_paper.pdf">[VQA-T-ICCV2021]</th>
     <th>H2VQA69M</th>
-    <th>/</th>   
-    <th>/</th>
-    <th>/</th>
     <th>/</th>
     <th>46.3</th>
     <th>41.5</th>
@@ -181,10 +168,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
     <th>5</th>
     <th><a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Lei_Less_Is_More_ClipBERT_for_Video-and-Language_Learning_via_Sparse_Sampling_CVPR_2021_paper.pdf">[ClipBERT-CVPR2021]</th>
     <th>Visual Genome & COCO</th>
-    <th>82.8</th>   
-    <th>87.8</th>
     <th>60.3</th>
-    <th>/</th>
     <th>/</th>
     <th>37.4</th>
 </tr>
@@ -199,12 +183,10 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
   <tr>
     <th>Rank</th>
     <th>Name</th>
+    <th>Techniques and Insights</th>
     <th>Video Encoder</th>
     <th>Text Encoder</th>
-    <th>TGIF-Action</th>
-    <th>TGIF-Transition</th>
     <th>TGIF-Frame</th>   
-    <th>TGIF-Count</th>
     <th>MSVD-QA</th>
     <th>MSRVTT-QA</th>
   </tr>
@@ -213,60 +195,50 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 <tr>
     <th>1</th>
     <th><a href="https://arxiv.org/abs/2106.10446">[MASN-ACL2021]</th>
+    <th>Graph</th>
     <th>RN, I3D, RoI</th>
     <th>Glove</th>
-    <th>84.4</th>   
-    <th>87.4</th>
     <th>59.5</th>
-    <th>3.75</th>
     <th>38.0</th>
     <th>35.2</th>
 </tr>
 <tr>
     <th>2</th>
     <th><a href="https://arxiv.org/abs/2112.06197">[HQGA-AAAI2022]</th>
+    <th>Modular Networks, Graph, Hierarchical Learning, Multi-Granularity</th>
     <th>RN, RX(3D), RoI</th>
     <th>BERT</th>
-    <th>76.9</th>   
-    <th>85.6</th>
     <th>61.3</th>
-    <th>/</th>
     <th>41.2</th>
     <th>38.6</th>
 </tr>
 <tr>
     <th>3</th>
     <th><a href="https://dl.acm.org/doi/abs/10.1145/3474085.3475193">[PGAT-ACMMM2021]</th>
+    <th>Graph, Hierarchical Learning, Multi-Granularity</th>
     <th>RN, RX(3D), RoI</th>
     <th>Glove</th>
-    <th>80.6</th>   
-    <th>85.7</th>
     <th>61.1</th>
-    <th>3.96</th>
     <th>39.0</th>
     <th>38.1</th>
 </tr>
 <tr>
     <th>4</th>
     <th><a href="https://arxiv.org/abs/2106.13432">[HOSTR-IJCAI2021]</th>
+    <th>Modular Networks, Graph, Hierarchical Learning</th>
     <th>RN, RX(3D), RoI</th>
     <th>Glove</th>
-    <th>75.6</th>   
-    <th>82.1</th>
     <th>58.2</th>
-    <th>4.13</th>
     <th>39.4</th>
     <th>35.9</th>
 </tr>
 <tr>
     <th>5</th>
     <th><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_HAIR_Hierarchical_Visual-Semantic_Relational_Reasoning_for_Video_Question_Answering_ICCV_2021_paper.pdf">[HAIR-ICCV2021]</th>
+    <th>Graph, Memory, Hierarchical Learning</th>
     <th>RoI</th>
     <th>Glove</th>
-    <th>77.8</th>   
-    <th>82.3</th>
     <th>60.2</th>
-    <th>3.88</th>
     <th>37.5</th>
     <th>36.9</th>
 </tr>
@@ -282,75 +254,59 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 <thead>
   <tr>
     <th>Rank</th>
+    <th>Techniques and Insights</th>
     <th>Name</th>
-    <th>Val-C</th>   
-    <th>Val-T</th>
-    <th>Val-D</th>
-    <th>Val-Overall</th>
-    <th>Test-C</th>   
-    <th>Test-T</th>
-    <th>Test-D</th>
-    <th>Test-Overall</th>
+    <th>NExT-Val</th>
+    <th>NExT-Test</th>
   </tr>
 </thead>
-  <tr>
+   <tr>
+    <th>/</th>
+    <th>Human Performance</th>
+    <th>/</th>
+    <th>88.4</th>
+    <th>/</th>
+  </tr>
+   <tr>
     <th>1</th>
-    <th><a href="https://arxiv.org/abs/2202.09277">[(2.5+1)D-Transformer-AAAI2022]</th>
-    <th>/</th>   
-    <th>/</th>
-    <th>/</th>
-    <th>53.4</th>
-    <th>/</th>   
-    <th>/</th>
-    <th>/</th>
+    <th><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Buch_Revisiting_the_Video_in_Video-Language_Understanding_CVPR_2022_paper.pdf">[ATP-CVPR2022]</th>
+    <th>Transformer, Cross-modal Pre-training and Fine-tuning</th>
+    <th>54.3</th>
     <th>/</th>
   </tr>
   <tr>
     <th>2</th>
-    <th><a href="https://arxiv.org/abs/2112.06197">[HQGA-AAAI2022]</th>
-    <th>/</th>   
+    <th><a href="https://arxiv.org/abs/2202.09277">[(2.5+1)D-Transformer-AAAI2022]</th>
+    <th>Graph, Transformer, Multi-Granularity</th>	    
+    <th>53.4</th>
     <th>/</th>
-    <th>/</th>
-    <th>51.42</th>
-    <th>49.04</th>   
-    <th>52.28</th>
-    <th>59.43</th>
-    <th>51.75</th>
-  </tr>
-  <tr>
-    <th>3</th>
-    <th><a href="">[IGV-CVPR2022]</th>
-    <th>/</th>   
-    <th>/</th>
-    <th>/</th>
-    <th>/</th>
-    <th>48.56</th>   
-    <th>51.67</th>
-    <th>59.64</th>
-    <th>51.34</th>
   </tr>
   <tr>
     <th>4</th>
-    <th><a href="https://ojs.aaai.org/index.php/AAAI/article/view/6767">[HGA-AAAI2020]</th>
-    <th>46.26</th>   
-    <th>50.74</th>
-    <th>59.33</th>
-    <th>49.74</th>
-    <th>48.13</th>   
-    <th>49.08</th>
-    <th>57.79</th>
-    <th>50.01</th>
+    <th><a href="https://arxiv.org/abs/2112.06197">[HQGA-AAAI2022]</th>
+    <th>Modular Networks, Graph, Hierarchical Learning, Multi-Granularity</th>
+    <th>51.42</th>
+    <th>51.75</th>
   </tr>
   <tr>
     <th>5</th>
+    <th><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Invariant_Grounding_for_Video_Question_Answering_CVPR_2022_paper.pdf">[IGV-CVPR2022]</th>
+    <th>Causal, Graph</th>
+    <th>/</th>
+    <th>51.34</th>
+  </tr>
+  <tr>
+    <th>6</th>
+    <th><a href="https://ojs.aaai.org/index.php/AAAI/article/view/6767">[HGA-AAAI2020]</th>
+    <th>Graph</th>
+    <th>49.74</th>
+    <th>50.01</th>
+  </tr>
+  <tr>
+    <th>7</th>
     <th><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Le_Hierarchical_Conditional_Relation_Networks_for_Video_Question_Answering_CVPR_2020_paper.pdf">[HCRN-CVPR2020]</th>
-    <th>45.91</th>   
-    <th>49.26</th>
-    <th>53.67</th>
+    <th>Modular Networks, Hierarchical Learning</th>
     <th>48.20</th>
-    <th>47.07</th>   
-    <th>49.27</th>
-    <th>54.02</th>
     <th>48.98</th>
   </tr>
 <tbody>
