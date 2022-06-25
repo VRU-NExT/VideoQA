@@ -778,7 +778,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 13. **Temporal Pyramid Transformer with Multimodal Interaction for Video Question Answering** `arXiv 2021` [[paper]](https://arxiv.org/abs/2109.04735)[[Code]](https://github.com/Trunpm/TPT-for-VideoQA).
 14. **Violet: End-to-end video-language transformers with masked visual-token modeling** `arXiv 2021` [[paper]](https://arxiv.org/abs/2111.12681)[[Code]](https://github.com/tsujuifu/pytorch_violet).
 15. **Revitalize Region Feature for Democratizing Video-Language Pre-training** `arXiv 2021` [[paper]](https://arxiv.org/pdf/2203.07720.pdf)[[Code]](https://github.com/showlab/DemoVLP).
-
+16. **Revisiting the Video in Video-Language Understanding** `CVPR 2022` [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Buch_Revisiting_the_Video_in_Video-Language_Understanding_CVPR_2022_paper.pdf)
 
 
 #### Graph Neural Networks
