@@ -606,7 +606,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Just_Ask_Learning_To_Answer_Questions_From_Millions_of_Narrated_ICCV_2021_paper.pdf">[Paper]</a>,
             <a href="https://antoyang.github.io/just-ask.html">[Dataset]</a>,
             <a href="https://github.com/antoyang/just-ask">[Code]</a></td>
-		<td> MM VideoQA, Factoid</td>
+		<td> VideoQA, Factoid</td>
 		<td> Web Videos</td>
 		<td> 69M/69M/12</td>
 		<td> Auto</td>
@@ -615,7 +615,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Just_Ask_Learning_To_Answer_Questions_From_Millions_of_Narrated_ICCV_2021_paper.pdf">[Paper]</a>,
             <a href="https://antoyang.github.io/just-ask.html">[Dataset]</a>,
             <a href="https://github.com/antoyang/just-ask">[Code]</a></td>
-		<td> MM VideoQA, Factoid</td>
+		<td> VideoQA, Factoid</td>
 		<td> Web Videos</td>
 		<td> 10K/10K/18</td>
 		<td> Man</td>
@@ -700,7 +700,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
             <a href="https://github.com/deepaknlp/MedVidQACL">[Dataset]</a></td>
 		<td> VideoQA, Factoid</td>
 		<td> Medical Instructional Videos</td>
-		<td> 899/3K/-</td>
+		<td> 899/3K/4</td>
 		<td> Man</td>
 	</tr>	
 	<td><code>NEWSKVQA</code></td>
@@ -742,6 +742,14 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td> Music Videos </td>
 		<td> 9.3K/45K/60 </td>
 		<td> Man </td>
+	</tr>	
+	<td><code>WebVidQA3M</code></td>
+		<td><a href="https://arxiv.org/pdf/2205.05019.pdf">[Paper]</a>,
+            <a href="https://antoyang.github.io/just-ask.html">[Dataset]</a></td>
+		<td> VideoQA, Factoid </td>
+		<td> Web Videos </td>
+		<td> 2M/3MK/? </td>
+		<td> Auto </td>
 	</tr>	
 </tbody >
 </table>
@@ -832,7 +840,6 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 5. **Hierarchical Object-oriented Spatio-Temporal Reasoning for Video Question Answering** `IJCAI 2021` [[paper]](https://arxiv.org/abs/2106.13432).
 
 
-
 #### Neural-Symbolic
 1. **Clevrer: Collision events for video representation and reasoning** `ICLR 2020` [[paper]](https://arxiv.org/abs/1910.01442)[[Code]](https://github.com/chuangg/CLEVRER).
 2. **Grounding physical concepts of objects and events through dynamic visual reasoning** `ICLR 2021` [[paper]](https://arxiv.org/abs/2103.16564)[[Code]](https://github.com/zfchenUnique/DCL-Release).
@@ -880,6 +887,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 1. **Gaining extra supervision via multi-task learning for multi-modal video question answering** `IJCNN 2019` [[paper]](https://ieeexplore.ieee.org/abstract/document/8852087).
 2. **TVQA+: Spatio-Temporal Grounding for Video Question Answering** `ACL 2020` [[paper]](https://arxiv.org/abs/1904.11574)[[Code]](https://github.com/jayleicn/TVQAplus).
 3. **Adversarial Multimodal Network for Movie Story Question Answering** `TMM 2020` [[paper]](https://ieeexplore.ieee.org/abstract/document/9117168).
+4. **Learning to Answer Questions in Dynamic Audio-Visual Scenarios** `CVPR 2022` [[paper]](https://gewu-lab.github.io/MUSIC-AVQA/static/files/MUSIC-AVQA.pdf)[[Code]](https://github.com/GeWu-Lab/MUSIC-AVQA).
 
 ##### Input Data
 1. **Data augmentation techniques for the Video Question Answering task** `ECCV 2020` [[paper]](https://arxiv.org/pdf/2008.09849.pdf).
