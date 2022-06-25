@@ -860,3 +860,6 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 ##### Data Bias
 1. **On Modality Bias in the TVQA Dataset** `BMVC 2020` [[paper]](https://arxiv.org/abs/2012.10210)[[Code]](https://github.com/Jumperkables/tvqa_modality_bias).
 2. **What Gives the Answer Away? Question Answering Bias Analysis on Video QA Datasets** `arXiv 2020` [[paper]](https://arxiv.org/abs/2007.03626). 
+
+##### Causal
+1. **Invariant Grounding for Video Question Answering** `CVPR 2022` [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Invariant_Grounding_for_Video_Question_Answering_CVPR_2022_paper.pdf)[[Code]](https://github.com/yl3800/IGV).
