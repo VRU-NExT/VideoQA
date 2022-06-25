@@ -105,6 +105,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td>
 		<a href="https://github.com/yl3800/IGV">[IGV-CVPR]</a>
 		<a href="https://github.com/bcmi/Causal-VidQA">[Causal-VidQA-CVPR]</a>
+		<a href="https://github.com/GeWu-Lab/MUSIC-AVQA">[MUSIC-AVQA-CVPR]</a>	
 		<a href="https://github.com/doc-doc/HQGA">[HQGA-AAAI]</a>
 		</td>
 	</tr>
@@ -641,7 +642,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
             <a href="https://github.com/hs-yn/PanoAVQA">[Dataset]</a></td>
 		<td> MM VideoQA, Factoid</td>
 		<td> 360° Videos </td>
-		<td> 5.4K/51.7K/-</td>
+		<td> 5.4K/51.7K/5</td>
 		<td> Man</td>
 	</tr>	
 	<td><code>DramaQA</code></td>
@@ -710,6 +711,14 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td> 12K/1M/30</td>
 		<td> Auto</td>
 	</tr>	
+		<td><code>VQuAD</code></td>
+		<td><a href="https://openaccess.thecvf.com/content/WACV2022W/DNOW/papers/Gupta_VQuAD_Video_Question_Answering_Diagnostic_Dataset_WACVW_2022_paper.pdf">[Paper]</a>,
+            <a href="https://delta-lab-iitk.github.io/vquad/">[Dataset]</a></td>
+		<td> VideoQA, Inference </td>
+		<td> Synthetic Videos </td>
+		<td> 7K/1.3M/- </td>
+		<td> Auto </td>
+	</tr>	
 		<td><code>AGQA 2.0</code></td>
 		<td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Gandhi_Measuring_Compositional_Consistency_for_Video_Question_Answering_CVPR_2022_paper.pdf">[Paper]</a>,
             <a href="https://tinyurl.com/agqa-decomp">[Dataset]</a></td>
@@ -724,6 +733,14 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td> VideoQA, Inference </td>
 		<td> Web Videos </td>
 		<td> 26K/107k/9</td>
+		<td> Man </td>
+	</tr>	
+		<td><code>MUSIC-AVQA</code></td>
+		<td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Learning_To_Answer_Questions_in_Dynamic_Audio-Visual_Scenarios_CVPR_2022_paper.pdf">[Paper]</a>,
+            <a href="http://gewulab.github.io/MUSIC-AVQA/">[Dataset]</a></td>
+		<td> MM VideoQA, Factoid </td>
+		<td> Music Videos </td>
+		<td> 9.3K/45K/60 </td>
 		<td> Man </td>
 	</tr>	
 </tbody >
