@@ -103,7 +103,9 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 	<tr>
 	<td>2022</td>
 		<td>
-		<a href="https://github.com/doc-doc/HQGA">[HQGA-AAAI]</a>	
+		<a href="https://github.com/yl3800/IGV">[IGV-CVPR]</a>
+		<a href="https://github.com/bcmi/Causal-VidQA">[Causal-VidQA-CVPR]</a>
+		<a href="https://github.com/doc-doc/HQGA">[HQGA-AAAI]</a>
 		</td>
 	</tr>
 </tbody>
@@ -404,7 +406,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 	<td><code>TGIF-QA</code></td>
 		<td><a href="https://openaccess.thecvf.com/content_cvpr_2017/papers/Jang_TGIF-QA_Toward_Spatio-Temporal_CVPR_2017_paper.pdf">[Paper]</a>,
             <a href="https://github.com/YunseokJANG/tgif-qa">[Dataset]</a></td>
-		<td> VideoQA, Factoid </td>
+		<td> VideoQA, Inference </td>
 		<td> GIF </td>
 		<td> 71K/165K/3  </td>
 		<td> Auto, Man</td>
@@ -480,7 +482,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td><a href="https://dl.acm.org/doi/abs/10.1145/3240508.3240563">[Paper]</a>,
             	<a href="https://svqa-founder.github.io/SVQA/">[Dataset]</a>,
 		<a href="https://github.com/SVQA-founder/SVQA/tree/master/code">[Code]</a></td>
-		<td> VideoQA, Factoid </td>
+		<td> VideoQA, Inference </td>
 		<td> Synthetic Videos </td>
 		<td> 12K/118K/- </td>
 		<td> Auto </td>
@@ -533,7 +535,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td><a href="https://arxiv.org/abs/1910.10706">[Paper]</a>,
             <a href="https://knowit-vqa.github.io/">[Dataset]</a>,
             <a href="https://github.com/noagarcia/knowit-rock">[Code]</a></td>
-		<td>KB VideoQA, Factoid</td>
+		<td>KB VideoQA, Inference</td>
 		<td> TV </td>
 		<td> 12K/24K/20</td>
 		<td> Man</td>
@@ -558,7 +560,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 	<td><code>PsTuts-VQA</code></td>
 		<td><a href="https://arxiv.org/abs/2008.00544">[Paper]</a>,
             <a href="https://sites.google.com/view/pstuts-vqa/home">[Dataset]</a></td>
-		<td> KB VideoQA, Factoid</td>
+		<td> KB VideoQA, Inference</td>
 		<td> Tutorial Videos</td>
 		<td> 76/17K/262</td>
 		<td> Man </td>
@@ -663,7 +665,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 	<td><code>TGIF-QA-R</code></td>
 		<td><a href="https://dl.acm.org/doi/abs/10.1145/3474085.3475193">[Paper]</a>,
             <a href="https://github.com/PengLiang-cn/PGAT">[Dataset]</a></td>
-		<td> VideoQA, Factoid </td>
+		<td> VideoQA, Inference </td>
 		<td> GIF </td>
 		<td> 71K/165K/3  </td>
 		<td> Auto </td>
@@ -671,7 +673,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 	<td><code>KnowIT-X VQA</code></td>
 		<td><a href="https://arxiv.org/abs/2110.13395">[Paper]</a>,
             <a href="https://knowit-vqa.github.io/">[Dataset]</a></td>
-		<td>KB VideoQA, Factoid</td>
+		<td>KB VideoQA, Inference</td>
 		<td> TV </td>
 		<td> 12.1K/21.4K/20</td>
 		<td> Man </td>
@@ -703,7 +705,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 	<td><code>NEWSKVQA</code></td>
 		<td><a href="https://arxiv.org/abs/2202.04015">[Paper]</a>,
             <a href="https://drive.google.com/file/d/1kK7fjwCZi0SLGGMHAENE8_Eofk_mVC15/view">[Dataset]</a></td>
-		<td> KB VideoQA, </td>
+		<td> KB VideoQA, Inference </td>
 		<td> News Videos</td>
 		<td> 12K/1M/30</td>
 		<td> Auto</td>
