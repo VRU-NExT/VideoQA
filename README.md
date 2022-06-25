@@ -282,6 +282,13 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
     <th>/</th>
   </tr>
   <tr>
+    <th>3</th>
+    <th><a href="https://arxiv.org/pdf/2204.11544.pdf">[MMA]</th>
+    <th>Graph, Hierarchical Learning</th>	    
+    <th>53.3</th>
+    <th>52.4</th>
+  </tr>
+  <tr>
     <th>4</th>
     <th><a href="https://arxiv.org/abs/2112.06197">[HQGA-AAAI2022]</th>
     <th>Modular Networks, Graph, Hierarchical Learning, Multi-Granularity</th>
@@ -787,6 +794,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 10. **Video as Conditional Graph Hierarchy for Multi-Granular Question Answering** `AAAI 2022` [[paper]](https://arxiv.org/abs/2112.06197)[[Code]](https://github.com/doc-doc/HQGA).
 11. **Cross-Attentional Spatio-Temporal Semantic Graph Networks for Video Question Answering** `TIP 2022` [[paper]](https://ieeexplore.ieee.org/abstract/document/9686595).
 12. **(2.5+1)D Spatio-Temporal Scene Graphs for Video Question Answering** `AAAI 2022` [[paper]](https://arxiv.org/abs/2202.09277).
+13. **Rethinking Multi-Modal Alignment in Video Question Answering from Feature and Sample Perspectives** `AAAI 2022` [[paper]](https://arxiv.org/pdf/2204.11544.pdf).
 
 #### Modular Networks
 1. **Question-aware tube-switch network for video question answering** `ACMMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3343031.3350969).
