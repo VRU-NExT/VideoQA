@@ -710,6 +710,22 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td> 12K/1M/30</td>
 		<td> Auto</td>
 	</tr>	
+		<td><code>AGQA 2.0</code></td>
+		<td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Gandhi_Measuring_Compositional_Consistency_for_Video_Question_Answering_CVPR_2022_paper.pdf">[Paper]</a>,
+            <a href="https://tinyurl.com/agqa-decomp">[Dataset]</a></td>
+		<td> VideoQA, Inference </td>
+		<td> Homemade Videos </td>
+		<td> 9.6K/4.55M/30</td>
+		<td> Auto </td>
+	</tr>	
+	<td><code>Causal-VidQA</code></td>
+		<td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Li_From_Representation_to_Reasoning_Towards_Both_Evidence_and_Commonsense_Reasoning_CVPR_2022_paper.pdf">[Paper]</a>,
+            <a href="https://github.com/bcmi/Causal-VidQA">[Dataset]</a></td>
+		<td> VideoQA, Inference </td>
+		<td> Web Videos </td>
+		<td> 26K/107k/9</td>
+		<td> Man </td>
+	</tr>	
 </tbody >
 </table>
 </div>
