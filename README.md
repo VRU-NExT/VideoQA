@@ -20,7 +20,33 @@ Contributed by [Yaoyao Zhong](https://github.com/zhongyy), [Junbin Xiao](https:/
 
 Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com/)!
 
+****
+
 ## Resources
+- [Open-sourced code](#Open-sourced-code)
+- [Leaderboards](#Leaderboards)
+   - [Inference QA](#Inference-QA)
+   - [Factoid QA](#Factoid-QA)
+- [Datasets](#Datasets)
+- [Paper list](#Paper-list)
+   - [Survey](Survey)
+   - [Early Works](Early-Works-(Varients-of-RNNs))
+   - [Memory Networks](#Memory-Networks)
+   - [Transformer](#Transformer)
+   - [Graph Neural Networks](#Graph-Neural-Networks)
+   - [Modular Networks](#Modular-Networks)
+   - [Neural-Symbolic](#Neural-Symbolic)
+   - [Others](#Others)
+     	- [Reforced Decoder](#Reforced-Decoder)
+     	- [Knowledge Incorporation](#Knowledge-Incorporation)
+     	- [Commonsense Incorporation](#Commonsense-Incorporation)
+     	- [Multi-task Learning](#Multi-task-Learning)
+     	- [Input Data](#Input-Data)
+     	- [Data Bias](#Data-Bias)
+     	- [Causality](#Causality)
+
+
+****
 
 ### Open-sourced code
 
@@ -106,17 +132,110 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<a href="https://github.com/yl3800/IGV">[IGV-CVPR]</a>
 		<a href="https://github.com/bcmi/Causal-VidQA">[Causal-VidQA-CVPR]</a>
 		<a href="https://github.com/GeWu-Lab/MUSIC-AVQA">[MUSIC-AVQA-CVPR]</a>	
+		<a href="https://github.com/rowanz/merlot_reserve">[MERLOT Reserve-CVPR]</a>	
 		<a href="https://github.com/doc-doc/HQGA">[HQGA-AAAI]</a>
+		<a href="https://github.com/sail-sg/VGT">[VGT-ECCV]</a>
 		</td>
 	</tr>
 </tbody>
 </table>
 </div>
 
+****
 ### Leaderboards
 
+#### Inference QA
 
-    
+##### NExT-QA
+<div style="overflow-x: auto; overflow-y: auto; height: auto; width:100%;">
+<table style="width:100%" border="2">
+<thead>
+  <tr>
+    <th>Rank</th>
+    <th>Name</th>
+    <th>Techniques and Insights</th>
+    <th>NExT-Val</th>
+    <th>NExT-Test</th>
+  </tr>
+</thead>
+   <tr>
+    <th>/</th>
+    <th>Human Performance</th>
+    <th>/</th>
+    <th>88.4</th>
+    <th>/</th>
+  </tr>
+  <tr>
+    <th>1</th>
+    <th><a href="">[VGT-ECCV2022]</th>
+    <th>Graph, Transformer, Hierarchical Learning, Multi-Granularity</th>
+    <th>55.02</th>
+    <th>53.68</th>
+  </tr>
+   <tr>
+    <th>2</th>
+    <th><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Buch_Revisiting_the_Video_in_Video-Language_Understanding_CVPR_2022_paper.pdf">[ATP-CVPR2022]</th>
+    <th>Transformer, Cross-modal Pre-training and Fine-tuning</th>
+    <th>54.3</th>
+    <th>/</th>
+  </tr>
+    <tr>
+    <th>3</th>
+    <th><a href="https://arxiv.org/pdf/2207.12783.pdf">[EIGV-ACMMM2022]</th>
+    <th>Causality, Graph</th>	    
+    <th>/</th>
+    <th>53.7</th>
+  </tr>
+  <tr>
+    <th>4</th>
+    <th><a href="https://arxiv.org/abs/2202.09277">[(2.5+1)D-Transformer-AAAI2022]</th>
+    <th>Graph, Transformer, Multi-Granularity</th>	    
+    <th>53.4</th>
+    <th>/</th>
+  </tr>
+  <tr>
+    <th>5</th>
+    <th><a href="https://arxiv.org/pdf/2204.11544.pdf">[MMA-arXiv2022]</th>
+    <th>Graph, Hierarchical Learning</th>	    
+    <th>53.3</th>
+    <th>52.4</th>
+  </tr>
+  <tr>
+    <th>6</th>
+    <th><a href="https://arxiv.org/abs/2112.06197">[HQGA-AAAI2022]</th>
+    <th>Modular Networks, Graph, Hierarchical Learning, Multi-Granularity</th>
+    <th>51.42</th>
+    <th>51.75</th>
+  </tr>
+  <tr>
+    <th>7</th>
+    <th><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Invariant_Grounding_for_Video_Question_Answering_CVPR_2022_paper.pdf">[IGV-CVPR2022]</th>
+    <th>Causality, Graph</th>
+    <th>/</th>
+    <th>51.34</th>
+  </tr>
+  <tr>
+    <th>8</th>
+    <th><a href="https://ojs.aaai.org/index.php/AAAI/article/view/6767">[HGA-AAAI2020]</th>
+    <th>Graph</th>
+    <th>49.74</th>
+    <th>50.01</th>
+  </tr>
+  <tr>
+    <th>9</th>
+    <th><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Le_Hierarchical_Conditional_Relation_Networks_for_Video_Question_Answering_CVPR_2020_paper.pdf">[HCRN-CVPR2020]</th>
+    <th>Modular Networks, Hierarchical Learning</th>
+    <th>48.20</th>
+    <th>48.98</th>
+  </tr>
+<tbody>
+
+</tbody>
+</table>
+</div>
+
+****
+
 #### Factoid QA 
 ##### Pre-Training 
 <div style="overflow-x: auto; overflow-y: auto; height: auto; width:100%;">
@@ -194,13 +313,13 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 <tbody>
 <tr>
     <th>1</th>
-    <th><a href="https://arxiv.org/abs/2106.10446">[MASN-ACL2021]</th>
-    <th>Graph</th>
-    <th>RN, I3D, RoI</th>
-    <th>Glove</th>
-    <th>59.5</th>
-    <th>38.0</th>
-    <th>35.2</th>
+    <th><a href="https://aclanthology.org/2022.naacl-main.286.pdf">[DMRVSG-NAACL2022]</th>
+    <th>Memory, Graph</th>
+    <th>Image caption and scene parser, Swin Transformer</th>
+    <th>RoBERTa</th>
+    <th>62.5</th>
+    <th>/</th>
+    <th>41.6</th>
 </tr>
 <tr>
     <th>2</th>
@@ -246,81 +365,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 </table>
 </div>
 
-#### Inference QA
-
-##### NExT-QA
-<div style="overflow-x: auto; overflow-y: auto; height: auto; width:100%;">
-<table style="width:100%" border="2">
-<thead>
-  <tr>
-    <th>Rank</th>
-    <th>Techniques and Insights</th>
-    <th>Name</th>
-    <th>NExT-Val</th>
-    <th>NExT-Test</th>
-  </tr>
-</thead>
-   <tr>
-    <th>/</th>
-    <th>Human Performance</th>
-    <th>/</th>
-    <th>88.4</th>
-    <th>/</th>
-  </tr>
-   <tr>
-    <th>1</th>
-    <th><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Buch_Revisiting_the_Video_in_Video-Language_Understanding_CVPR_2022_paper.pdf">[ATP-CVPR2022]</th>
-    <th>Transformer, Cross-modal Pre-training and Fine-tuning</th>
-    <th>54.3</th>
-    <th>/</th>
-  </tr>
-  <tr>
-    <th>2</th>
-    <th><a href="https://arxiv.org/abs/2202.09277">[(2.5+1)D-Transformer-AAAI2022]</th>
-    <th>Graph, Transformer, Multi-Granularity</th>	    
-    <th>53.4</th>
-    <th>/</th>
-  </tr>
-  <tr>
-    <th>3</th>
-    <th><a href="https://arxiv.org/pdf/2204.11544.pdf">[MMA]</th>
-    <th>Graph, Hierarchical Learning</th>	    
-    <th>53.3</th>
-    <th>52.4</th>
-  </tr>
-  <tr>
-    <th>4</th>
-    <th><a href="https://arxiv.org/abs/2112.06197">[HQGA-AAAI2022]</th>
-    <th>Modular Networks, Graph, Hierarchical Learning, Multi-Granularity</th>
-    <th>51.42</th>
-    <th>51.75</th>
-  </tr>
-  <tr>
-    <th>5</th>
-    <th><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Invariant_Grounding_for_Video_Question_Answering_CVPR_2022_paper.pdf">[IGV-CVPR2022]</th>
-    <th>Causal, Graph</th>
-    <th>/</th>
-    <th>51.34</th>
-  </tr>
-  <tr>
-    <th>6</th>
-    <th><a href="https://ojs.aaai.org/index.php/AAAI/article/view/6767">[HGA-AAAI2020]</th>
-    <th>Graph</th>
-    <th>49.74</th>
-    <th>50.01</th>
-  </tr>
-  <tr>
-    <th>7</th>
-    <th><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Le_Hierarchical_Conditional_Relation_Networks_for_Video_Question_Answering_CVPR_2020_paper.pdf">[HCRN-CVPR2020]</th>
-    <th>Modular Networks, Hierarchical Learning</th>
-    <th>48.20</th>
-    <th>48.98</th>
-  </tr>
-<tbody>
-
-</tbody>
-</table>
-</div>
+****
 
 ### Datasets
 
@@ -711,12 +756,22 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
             <a href="https://antoyang.github.io/just-ask.html">[Dataset]</a></td>
 		<td> VideoQA, Factoid </td>
 		<td> Web Videos </td>
-		<td> 2M/3MK/? </td>
+		<td> 2M/3MK/4 </td>
 		<td> Auto </td>
+	</tr>	
+	<td><code>FIBER</code></td>
+		<td><a href="https://aclanthology.org/2022.acl-long.209.pdf">[Paper]</a>,
+            <a href="https://github.com/MichiganNLP/video-fill-in-the-blank">[Dataset]</a></td>
+		<td> VideoQA, Factoid </td>
+		<td> Web Videos </td>
+		<td> 28K/28K/10 </td>
+		<td> Man </td>
 	</tr>	
 </tbody >
 </table>
 </div>
+
+****
 
 ### Paper Lists 
 
@@ -779,7 +834,8 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 14. **Violet: End-to-end video-language transformers with masked visual-token modeling** `arXiv 2021` [[paper]](https://arxiv.org/abs/2111.12681)[[Code]](https://github.com/tsujuifu/pytorch_violet).
 15. **Revitalize Region Feature for Democratizing Video-Language Pre-training** `arXiv 2021` [[paper]](https://arxiv.org/pdf/2203.07720.pdf)[[Code]](https://github.com/showlab/DemoVLP).
 16. **Revisiting the Video in Video-Language Understanding** `CVPR 2022` [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Buch_Revisiting_the_Video_in_Video-Language_Understanding_CVPR_2022_paper.pdf)
-
+17. **MERLOT Reserve: Multimodal Neural Script Knowledge through Vision and Language and Sound** `CVPR 2022` [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zellers_MERLOT_Reserve_Neural_Script_Knowledge_Through_Vision_and_Language_and_CVPR_2022_paper.pdf)[[Code]](https://github.com/rowanz/merlot_reserve)
+18. **Video Graph Transformer for Video Question Answering** `ECCV 2022` [[paper]](https://arxiv.org/pdf/2207.05342.pdf)[[Code]](https://github.com/sail-sg/VGT)
 
 #### Graph Neural Networks
 1. **Location-Aware Graph Convolutional Networks for Video Question Answering** `AAAI 2020` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6737).
@@ -795,6 +851,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 11. **Cross-Attentional Spatio-Temporal Semantic Graph Networks for Video Question Answering** `TIP 2022` [[paper]](https://ieeexplore.ieee.org/abstract/document/9686595).
 12. **(2.5+1)D Spatio-Temporal Scene Graphs for Video Question Answering** `AAAI 2022` [[paper]](https://arxiv.org/abs/2202.09277).
 13. **Rethinking Multi-Modal Alignment in Video Question Answering from Feature and Sample Perspectives** `AAAI 2022` [[paper]](https://arxiv.org/pdf/2204.11544.pdf).
+14. **Dynamic Multistep Reasoning based on Video Scene Graph for Video Question Answering** `NAACL 2022`[[paper]](https://aclanthology.org/2022.naacl-main.286.pdf).
 
 #### Modular Networks
 1. **Question-aware tube-switch network for video question answering** `ACMMM 2019` [[paper]](https://dl.acm.org/doi/abs/10.1145/3343031.3350969).
@@ -861,5 +918,7 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 1. **On Modality Bias in the TVQA Dataset** `BMVC 2020` [[paper]](https://arxiv.org/abs/2012.10210)[[Code]](https://github.com/Jumperkables/tvqa_modality_bias).
 2. **What Gives the Answer Away? Question Answering Bias Analysis on Video QA Datasets** `arXiv 2020` [[paper]](https://arxiv.org/abs/2007.03626). 
 
-##### Causal
+##### Causality
 1. **Invariant Grounding for Video Question Answering** `CVPR 2022` [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Invariant_Grounding_for_Video_Question_Answering_CVPR_2022_paper.pdf)[[Code]](https://github.com/yl3800/IGV).
+2. **Equivariant and Invariant Grounding for Video Question Answering** `ACMMM 2022` [[paper]](https://arxiv.org/pdf/2207.12783.pdf)[[Code]](https://github.com/yl3800/EIGV).
+
