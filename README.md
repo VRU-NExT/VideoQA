@@ -6,11 +6,11 @@ This repository contains a list of codes, leaderboards, dataset and paper lists 
 
 If you find this repository helpful for your work,  please kindly cite the following [paper](https://arxiv.org/abs/2203.01225). The Bibtex are listed below:
 <pre>
-@article{zhong2022Video,
+@inproceedings{zhong2022Video,
       title={Video Question Answering: Datasets, Algorithms and Challenges}, 
-      author={Yaoyao Zhong and Wei Ji and Junbin Xiao and Yicong Li and Weihong Deng and Tat-Seng Chua},
+      author={Yaoyao Zhong* and Wei Ji* and Junbin Xiao* and Yicong Li and Weihong Deng and Tat-Seng Chua},
       year={2022},
-      article={arXiv preprint arXiv:2203.01225},
+      booktitle={The 2022 Conference on Empirical Methods in Natural Language Processing},
 }
 </pre>
 
