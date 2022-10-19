@@ -767,6 +767,14 @@ Thanks for supports from our adviser [Tat-Seng Chua](https://www.chuatatseng.com
 		<td> 28K/28K/10 </td>
 		<td> Man </td>
 	</tr>	
+	<td><code>WildQA</code></td>
+		<td><a href="https://arxiv.org/pdf/2209.06650.pdf">[Paper]</a>,
+            <a href="https://lit.eecs.umich.edu/wildqa/">[Dataset]</a></td>
+		<td> VideoQA, Factoid </td>
+		<td> In-the-wild Videos </td>
+		<td> 369/916/71.22 </td>
+		<td> Man </td>
+	</tr>	
 </tbody >
 </table>
 </div>
