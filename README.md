@@ -8,7 +8,7 @@ If you find this repository helpful for your work,  please kindly cite the follo
 <pre>
 @inproceedings{zhong2022Video,
       title={Video Question Answering: Datasets, Algorithms and Challenges}, 
-      author={Yaoyao Zhong* and Junbin Xiao* and Wei Ji* and Yicong Li and Weihong Deng and Tat-Seng Chua},
+      author={Yaoyao Zhong and Junbin Xiao and Wei Ji and Yicong Li and Weihong Deng and Tat-Seng Chua},
       booktitle={The 2022 Conference on Empirical Methods in Natural Language Processing},
       year={2022},
 }
